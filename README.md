@@ -17,7 +17,7 @@ While voters' decisions are influenced by many factors, this project looks speci
 
 The analysis is divided into nine Jupyter notebooks, each focusing on different aspects of the data:
 1. Descriptive Analysis and Data Exploration of World Happiness, Inflation and Democracy-Data
-- 1a. Data Merging
+1.1. Data Merging
 2. Exploring Relationships
 3. Geographical Analysis
 4. Machine Learning: Regression
