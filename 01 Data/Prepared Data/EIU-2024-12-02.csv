@@ -1,0 +1,2506 @@
+,Country,Year,Democracy
+0,Afghanistan,2006,3.06
+1,Afghanistan,2008,3.02
+2,Afghanistan,2010,2.48
+3,Afghanistan,2011,2.48
+4,Afghanistan,2012,2.48
+5,Afghanistan,2013,2.48
+6,Afghanistan,2014,2.77
+7,Afghanistan,2015,2.77
+8,Afghanistan,2016,2.55
+9,Afghanistan,2017,2.55
+10,Afghanistan,2018,2.97
+11,Afghanistan,2019,2.85
+12,Afghanistan,2020,2.85
+13,Afghanistan,2021,0.32
+14,Afghanistan,2022,0.32
+15,Angola,2006,2.41
+16,Angola,2008,3.35
+17,Angola,2010,3.32
+18,Angola,2011,3.32
+19,Angola,2012,3.35
+20,Angola,2013,3.35
+21,Angola,2014,3.35
+22,Angola,2015,3.35
+23,Angola,2016,3.4
+24,Angola,2017,3.62
+25,Angola,2018,3.62
+26,Angola,2019,3.72
+27,Angola,2020,3.66
+28,Angola,2021,3.37
+29,Angola,2022,3.96
+30,Albania,2006,5.91
+31,Albania,2008,5.91
+32,Albania,2010,5.86
+33,Albania,2011,5.81
+34,Albania,2012,5.67
+35,Albania,2013,5.67
+36,Albania,2014,5.67
+37,Albania,2015,5.91
+38,Albania,2016,5.91
+39,Albania,2017,5.98
+40,Albania,2018,5.98
+41,Albania,2019,5.89
+42,Albania,2020,6.08
+43,Albania,2021,6.11
+44,Albania,2022,6.41
+45,United Arab Emirates,2006,2.42
+46,United Arab Emirates,2008,2.6
+47,United Arab Emirates,2010,2.52
+48,United Arab Emirates,2011,2.58
+49,United Arab Emirates,2012,2.58
+50,United Arab Emirates,2013,2.52
+51,United Arab Emirates,2014,2.64
+52,United Arab Emirates,2015,2.75
+53,United Arab Emirates,2016,2.75
+54,United Arab Emirates,2017,2.69
+55,United Arab Emirates,2018,2.76
+56,United Arab Emirates,2019,2.76
+57,United Arab Emirates,2020,2.7
+58,United Arab Emirates,2021,2.9
+59,United Arab Emirates,2022,2.9
+60,Argentina,2006,6.63
+61,Argentina,2008,6.63
+62,Argentina,2010,6.84
+63,Argentina,2011,6.84
+64,Argentina,2012,6.84
+65,Argentina,2013,6.84
+66,Argentina,2014,6.84
+67,Argentina,2015,7.02
+68,Argentina,2016,6.96
+69,Argentina,2017,6.96
+70,Argentina,2018,7.02
+71,Argentina,2019,7.02
+72,Argentina,2020,6.95
+73,Argentina,2021,6.81
+74,Argentina,2022,6.85
+75,Armenia,2006,4.15
+76,Armenia,2008,4.09
+77,Armenia,2010,4.09
+78,Armenia,2011,4.09
+79,Armenia,2012,4.09
+80,Armenia,2013,4.02
+81,Armenia,2014,4.13
+82,Armenia,2015,4.0
+83,Armenia,2016,3.88
+84,Armenia,2017,4.11
+85,Armenia,2018,4.79
+86,Armenia,2019,5.54
+87,Armenia,2020,5.35
+88,Armenia,2021,5.49
+89,Armenia,2022,5.63
+90,Australia,2006,9.09
+91,Australia,2008,9.09
+92,Australia,2010,9.22
+93,Australia,2011,9.22
+94,Australia,2012,9.22
+95,Australia,2013,9.13
+96,Australia,2014,9.01
+97,Australia,2015,9.01
+98,Australia,2016,9.01
+99,Australia,2017,9.09
+100,Australia,2018,9.09
+101,Australia,2019,9.09
+102,Australia,2020,8.96
+103,Australia,2021,8.9
+104,Australia,2022,8.71
+105,Austria,2006,8.69
+106,Austria,2008,8.49
+107,Austria,2010,8.49
+108,Austria,2011,8.49
+109,Austria,2012,8.62
+110,Austria,2013,8.48
+111,Austria,2014,8.54
+112,Austria,2015,8.54
+113,Austria,2016,8.41
+114,Austria,2017,8.42
+115,Austria,2018,8.29
+116,Austria,2019,8.29
+117,Austria,2020,8.16
+118,Austria,2021,8.07
+119,Austria,2022,8.2
+120,Azerbaijan,2006,3.31
+121,Azerbaijan,2008,3.19
+122,Azerbaijan,2010,3.15
+123,Azerbaijan,2011,3.15
+124,Azerbaijan,2012,3.15
+125,Azerbaijan,2013,3.06
+126,Azerbaijan,2014,2.83
+127,Azerbaijan,2015,2.71
+128,Azerbaijan,2016,2.65
+129,Azerbaijan,2017,2.65
+130,Azerbaijan,2018,2.65
+131,Azerbaijan,2019,2.75
+132,Azerbaijan,2020,2.68
+133,Azerbaijan,2021,2.68
+134,Azerbaijan,2022,2.87
+135,Burundi,2006,4.51
+136,Burundi,2008,4.51
+137,Burundi,2010,4.01
+138,Burundi,2011,4.01
+139,Burundi,2012,3.6
+140,Burundi,2013,3.41
+141,Burundi,2014,3.33
+142,Burundi,2015,2.49
+143,Burundi,2016,2.4
+144,Burundi,2017,2.33
+145,Burundi,2018,2.33
+146,Burundi,2019,2.15
+147,Burundi,2020,2.14
+148,Burundi,2021,2.13
+149,Burundi,2022,2.13
+150,Belgium,2006,8.15
+151,Belgium,2008,8.16
+152,Belgium,2010,8.05
+153,Belgium,2011,8.05
+154,Belgium,2012,8.05
+155,Belgium,2013,8.05
+156,Belgium,2014,7.93
+157,Belgium,2015,7.93
+158,Belgium,2016,7.77
+159,Belgium,2017,7.78
+160,Belgium,2018,7.78
+161,Belgium,2019,7.64
+162,Belgium,2020,7.51
+163,Belgium,2021,7.51
+164,Belgium,2022,7.64
+165,Benin,2006,6.16
+166,Benin,2008,6.06
+167,Benin,2010,6.17
+168,Benin,2011,6.06
+169,Benin,2012,6.0
+170,Benin,2013,5.87
+171,Benin,2014,5.65
+172,Benin,2015,5.72
+173,Benin,2016,5.67
+174,Benin,2017,5.61
+175,Benin,2018,5.74
+176,Benin,2019,5.09
+177,Benin,2020,4.58
+178,Benin,2021,4.19
+179,Benin,2022,4.28
+180,Burkina Faso,2006,3.72
+181,Burkina Faso,2008,3.6
+182,Burkina Faso,2010,3.59
+183,Burkina Faso,2011,3.59
+184,Burkina Faso,2012,3.52
+185,Burkina Faso,2013,4.15
+186,Burkina Faso,2014,4.09
+187,Burkina Faso,2015,4.7
+188,Burkina Faso,2016,4.7
+189,Burkina Faso,2017,4.75
+190,Burkina Faso,2018,4.75
+191,Burkina Faso,2019,4.04
+192,Burkina Faso,2020,3.73
+193,Burkina Faso,2021,3.84
+194,Burkina Faso,2022,3.08
+195,Bangladesh,2006,6.11
+196,Bangladesh,2008,5.52
+197,Bangladesh,2010,5.87
+198,Bangladesh,2011,5.86
+199,Bangladesh,2012,5.86
+200,Bangladesh,2013,5.86
+201,Bangladesh,2014,5.78
+202,Bangladesh,2015,5.73
+203,Bangladesh,2016,5.73
+204,Bangladesh,2017,5.43
+205,Bangladesh,2018,5.57
+206,Bangladesh,2019,5.88
+207,Bangladesh,2020,5.99
+208,Bangladesh,2021,5.99
+209,Bangladesh,2022,5.99
+210,Bulgaria,2006,7.1
+211,Bulgaria,2008,7.02
+212,Bulgaria,2010,6.84
+213,Bulgaria,2011,6.78
+214,Bulgaria,2012,6.72
+215,Bulgaria,2013,6.83
+216,Bulgaria,2014,6.73
+217,Bulgaria,2015,7.14
+218,Bulgaria,2016,7.01
+219,Bulgaria,2017,7.03
+220,Bulgaria,2018,7.03
+221,Bulgaria,2019,7.03
+222,Bulgaria,2020,6.71
+223,Bulgaria,2021,6.64
+224,Bulgaria,2022,6.53
+225,Bahrain,2006,3.53
+226,Bahrain,2008,3.38
+227,Bahrain,2010,3.49
+228,Bahrain,2011,2.92
+229,Bahrain,2012,2.53
+230,Bahrain,2013,2.87
+231,Bahrain,2014,2.87
+232,Bahrain,2015,2.79
+233,Bahrain,2016,2.79
+234,Bahrain,2017,2.71
+235,Bahrain,2018,2.71
+236,Bahrain,2019,2.55
+237,Bahrain,2020,2.49
+238,Bahrain,2021,2.52
+239,Bahrain,2022,2.52
+240,Bosnia and Herzegovina,2006,5.78
+241,Bosnia and Herzegovina,2008,5.7
+242,Bosnia and Herzegovina,2010,5.32
+243,Bosnia and Herzegovina,2011,5.24
+244,Bosnia and Herzegovina,2012,5.11
+245,Bosnia and Herzegovina,2013,5.02
+246,Bosnia and Herzegovina,2014,4.78
+247,Bosnia and Herzegovina,2015,4.83
+248,Bosnia and Herzegovina,2016,4.87
+249,Bosnia and Herzegovina,2017,4.87
+250,Bosnia and Herzegovina,2018,4.98
+251,Bosnia and Herzegovina,2019,4.86
+252,Bosnia and Herzegovina,2020,4.84
+253,Bosnia and Herzegovina,2021,5.04
+254,Bosnia and Herzegovina,2022,5.0
+255,Belarus,2006,3.34
+256,Belarus,2008,3.34
+257,Belarus,2010,3.34
+258,Belarus,2011,3.16
+259,Belarus,2012,3.04
+260,Belarus,2013,3.04
+261,Belarus,2014,3.69
+262,Belarus,2015,3.62
+263,Belarus,2016,3.54
+264,Belarus,2017,3.13
+265,Belarus,2018,3.13
+266,Belarus,2019,2.48
+267,Belarus,2020,2.59
+268,Belarus,2021,2.41
+269,Belarus,2022,1.99
+270,Bolivia,2006,5.98
+271,Bolivia,2008,6.15
+272,Bolivia,2010,5.92
+273,Bolivia,2011,5.84
+274,Bolivia,2012,5.84
+275,Bolivia,2013,5.79
+276,Bolivia,2014,5.79
+277,Bolivia,2015,5.75
+278,Bolivia,2016,5.63
+279,Bolivia,2017,5.49
+280,Bolivia,2018,5.7
+281,Bolivia,2019,4.84
+282,Bolivia,2020,5.08
+283,Bolivia,2021,4.65
+284,Bolivia,2022,4.51
+285,Brazil,2006,7.38
+286,Brazil,2008,7.38
+287,Brazil,2010,7.12
+288,Brazil,2011,7.12
+289,Brazil,2012,7.12
+290,Brazil,2013,7.12
+291,Brazil,2014,7.38
+292,Brazil,2015,6.96
+293,Brazil,2016,6.9
+294,Brazil,2017,6.86
+295,Brazil,2018,6.97
+296,Brazil,2019,6.86
+297,Brazil,2020,6.92
+298,Brazil,2021,6.86
+299,Brazil,2022,6.78
+300,Bhutan,2006,2.62
+301,Bhutan,2008,4.3
+302,Bhutan,2010,4.68
+303,Bhutan,2011,4.57
+304,Bhutan,2012,4.65
+305,Bhutan,2013,4.82
+306,Bhutan,2014,4.87
+307,Bhutan,2015,4.93
+308,Bhutan,2016,4.93
+309,Bhutan,2017,5.08
+310,Bhutan,2018,5.3
+311,Bhutan,2019,5.3
+312,Bhutan,2020,5.71
+313,Bhutan,2021,5.71
+314,Bhutan,2022,5.54
+315,Botswana,2006,7.6
+316,Botswana,2008,7.47
+317,Botswana,2010,7.63
+318,Botswana,2011,7.63
+319,Botswana,2012,7.85
+320,Botswana,2013,7.98
+321,Botswana,2014,7.87
+322,Botswana,2015,7.87
+323,Botswana,2016,7.87
+324,Botswana,2017,7.81
+325,Botswana,2018,7.81
+326,Botswana,2019,7.81
+327,Botswana,2020,7.62
+328,Botswana,2021,7.73
+329,Botswana,2022,7.73
+330,Central African Republic,2006,1.61
+331,Central African Republic,2008,1.86
+332,Central African Republic,2010,1.82
+333,Central African Republic,2011,1.82
+334,Central African Republic,2012,1.99
+335,Central African Republic,2013,1.49
+336,Central African Republic,2014,1.49
+337,Central African Republic,2015,1.57
+338,Central African Republic,2016,1.61
+339,Central African Republic,2017,1.52
+340,Central African Republic,2018,1.52
+341,Central African Republic,2019,1.32
+342,Central African Republic,2020,1.32
+343,Central African Republic,2021,1.43
+344,Central African Republic,2022,1.35
+345,Canada,2006,9.07
+346,Canada,2008,9.07
+347,Canada,2010,9.08
+348,Canada,2011,9.08
+349,Canada,2012,9.08
+350,Canada,2013,9.08
+351,Canada,2014,9.08
+352,Canada,2015,9.08
+353,Canada,2016,9.15
+354,Canada,2017,9.15
+355,Canada,2018,9.15
+356,Canada,2019,9.22
+357,Canada,2020,9.24
+358,Canada,2021,8.87
+359,Canada,2022,8.88
+360,Switzerland,2006,9.02
+361,Switzerland,2008,9.15
+362,Switzerland,2010,9.09
+363,Switzerland,2011,9.09
+364,Switzerland,2012,9.09
+365,Switzerland,2013,9.09
+366,Switzerland,2014,9.09
+367,Switzerland,2015,9.09
+368,Switzerland,2016,9.09
+369,Switzerland,2017,9.03
+370,Switzerland,2018,9.03
+371,Switzerland,2019,9.03
+372,Switzerland,2020,8.83
+373,Switzerland,2021,8.9
+374,Switzerland,2022,9.14
+375,Chile,2006,7.89
+376,Chile,2008,7.89
+377,Chile,2010,7.67
+378,Chile,2011,7.54
+379,Chile,2012,7.54
+380,Chile,2013,7.8
+381,Chile,2014,7.8
+382,Chile,2015,7.84
+383,Chile,2016,7.78
+384,Chile,2017,7.84
+385,Chile,2018,7.97
+386,Chile,2019,8.08
+387,Chile,2020,8.28
+388,Chile,2021,7.92
+389,Chile,2022,8.22
+390,China,2006,2.97
+391,China,2008,3.04
+392,China,2010,3.14
+393,China,2011,3.14
+394,China,2012,3.0
+395,China,2013,3.0
+396,China,2014,3.0
+397,China,2015,3.14
+398,China,2016,3.14
+399,China,2017,3.1
+400,China,2018,3.32
+401,China,2019,2.26
+402,China,2020,2.27
+403,China,2021,2.21
+404,China,2022,1.94
+405,Cote d'Ivoire,2006,3.38
+406,Cote d'Ivoire,2008,3.27
+407,Cote d'Ivoire,2010,3.02
+408,Cote d'Ivoire,2011,3.08
+409,Cote d'Ivoire,2012,3.25
+410,Cote d'Ivoire,2013,3.25
+411,Cote d'Ivoire,2014,3.53
+412,Cote d'Ivoire,2015,3.31
+413,Cote d'Ivoire,2016,3.81
+414,Cote d'Ivoire,2017,3.93
+415,Cote d'Ivoire,2018,4.15
+416,Cote d'Ivoire,2019,4.05
+417,Cote d'Ivoire,2020,4.11
+418,Cote d'Ivoire,2021,4.22
+419,Cote d'Ivoire,2022,4.22
+420,Cameroon,2006,3.27
+421,Cameroon,2008,3.46
+422,Cameroon,2010,3.41
+423,Cameroon,2011,3.41
+424,Cameroon,2012,3.44
+425,Cameroon,2013,3.41
+426,Cameroon,2014,3.41
+427,Cameroon,2015,3.66
+428,Cameroon,2016,3.46
+429,Cameroon,2017,3.61
+430,Cameroon,2018,3.28
+431,Cameroon,2019,2.85
+432,Cameroon,2020,2.77
+433,Cameroon,2021,2.56
+434,Cameroon,2022,2.56
+435,"Congo, Dem. Rep.",2006,2.76
+436,"Congo, Dem. Rep.",2008,2.28
+437,"Congo, Dem. Rep.",2010,2.15
+438,"Congo, Dem. Rep.",2011,2.15
+439,"Congo, Dem. Rep.",2012,1.92
+440,"Congo, Dem. Rep.",2013,1.83
+441,"Congo, Dem. Rep.",2014,1.75
+442,"Congo, Dem. Rep.",2015,2.11
+443,"Congo, Dem. Rep.",2016,1.93
+444,"Congo, Dem. Rep.",2017,1.61
+445,"Congo, Dem. Rep.",2018,1.49
+446,"Congo, Dem. Rep.",2019,1.13
+447,"Congo, Dem. Rep.",2020,1.13
+448,"Congo, Dem. Rep.",2021,1.4
+449,"Congo, Dem. Rep.",2022,1.48
+450,"Congo, Rep.",2006,3.19
+451,"Congo, Rep.",2008,2.94
+452,"Congo, Rep.",2010,2.89
+453,"Congo, Rep.",2011,2.89
+454,"Congo, Rep.",2012,2.89
+455,"Congo, Rep.",2013,2.89
+456,"Congo, Rep.",2014,2.89
+457,"Congo, Rep.",2015,2.91
+458,"Congo, Rep.",2016,2.91
+459,"Congo, Rep.",2017,3.25
+460,"Congo, Rep.",2018,3.31
+461,"Congo, Rep.",2019,3.11
+462,"Congo, Rep.",2020,3.11
+463,"Congo, Rep.",2021,2.79
+464,"Congo, Rep.",2022,2.79
+465,Colombia,2006,6.4
+466,Colombia,2008,6.54
+467,Colombia,2010,6.55
+468,Colombia,2011,6.63
+469,Colombia,2012,6.63
+470,Colombia,2013,6.55
+471,Colombia,2014,6.55
+472,Colombia,2015,6.62
+473,Colombia,2016,6.67
+474,Colombia,2017,6.67
+475,Colombia,2018,6.96
+476,Colombia,2019,7.13
+477,Colombia,2020,7.04
+478,Colombia,2021,6.48
+479,Colombia,2022,6.72
+480,Comoros,2006,3.9
+481,Comoros,2008,3.58
+482,Comoros,2010,3.41
+483,Comoros,2011,3.52
+484,Comoros,2012,3.52
+485,Comoros,2013,3.52
+486,Comoros,2014,3.52
+487,Comoros,2015,3.71
+488,Comoros,2016,3.71
+489,Comoros,2017,3.71
+490,Comoros,2018,3.71
+491,Comoros,2019,3.15
+492,Comoros,2020,3.09
+493,Comoros,2021,3.2
+494,Comoros,2022,3.2
+495,Cabo Verde,2006,7.43
+496,Cabo Verde,2008,7.81
+497,Cabo Verde,2010,7.94
+498,Cabo Verde,2011,7.92
+499,Cabo Verde,2012,7.92
+500,Cabo Verde,2013,7.92
+501,Cabo Verde,2014,7.81
+502,Cabo Verde,2015,7.81
+503,Cabo Verde,2016,7.94
+504,Cabo Verde,2017,7.88
+505,Cabo Verde,2018,7.88
+506,Cabo Verde,2019,7.78
+507,Cabo Verde,2020,7.65
+508,Cabo Verde,2021,7.65
+509,Cabo Verde,2022,7.65
+510,Costa Rica,2006,8.04
+511,Costa Rica,2008,8.04
+512,Costa Rica,2010,8.04
+513,Costa Rica,2011,8.1
+514,Costa Rica,2012,8.1
+515,Costa Rica,2013,8.03
+516,Costa Rica,2014,8.03
+517,Costa Rica,2015,7.96
+518,Costa Rica,2016,7.88
+519,Costa Rica,2017,7.88
+520,Costa Rica,2018,8.07
+521,Costa Rica,2019,8.13
+522,Costa Rica,2020,8.16
+523,Costa Rica,2021,8.07
+524,Costa Rica,2022,8.29
+525,Cuba,2006,3.52
+526,Cuba,2008,3.52
+527,Cuba,2010,3.52
+528,Cuba,2011,3.52
+529,Cuba,2012,3.52
+530,Cuba,2013,3.52
+531,Cuba,2014,3.52
+532,Cuba,2015,3.52
+533,Cuba,2016,3.46
+534,Cuba,2017,3.31
+535,Cuba,2018,3.0
+536,Cuba,2019,2.84
+537,Cuba,2020,2.84
+538,Cuba,2021,2.59
+539,Cuba,2022,2.65
+540,Cyprus,2006,7.6
+541,Cyprus,2008,7.7
+542,Cyprus,2010,7.29
+543,Cyprus,2011,7.29
+544,Cyprus,2012,7.29
+545,Cyprus,2013,7.29
+546,Cyprus,2014,7.4
+547,Cyprus,2015,7.53
+548,Cyprus,2016,7.65
+549,Cyprus,2017,7.59
+550,Cyprus,2018,7.59
+551,Cyprus,2019,7.59
+552,Cyprus,2020,7.56
+553,Cyprus,2021,7.43
+554,Cyprus,2022,7.38
+555,Czechia,2006,8.17
+556,Czechia,2008,8.19
+557,Czechia,2010,8.19
+558,Czechia,2011,8.19
+559,Czechia,2012,8.19
+560,Czechia,2013,8.06
+561,Czechia,2014,7.94
+562,Czechia,2015,7.94
+563,Czechia,2016,7.82
+564,Czechia,2017,7.62
+565,Czechia,2018,7.69
+566,Czechia,2019,7.69
+567,Czechia,2020,7.67
+568,Czechia,2021,7.74
+569,Czechia,2022,7.97
+570,Germany,2006,8.82
+571,Germany,2008,8.82
+572,Germany,2010,8.38
+573,Germany,2011,8.34
+574,Germany,2012,8.34
+575,Germany,2013,8.31
+576,Germany,2014,8.64
+577,Germany,2015,8.64
+578,Germany,2016,8.63
+579,Germany,2017,8.61
+580,Germany,2018,8.68
+581,Germany,2019,8.68
+582,Germany,2020,8.67
+583,Germany,2021,8.67
+584,Germany,2022,8.8
+585,Djibouti,2006,2.37
+586,Djibouti,2008,2.37
+587,Djibouti,2010,2.2
+588,Djibouti,2011,2.68
+589,Djibouti,2012,2.74
+590,Djibouti,2013,2.96
+591,Djibouti,2014,2.99
+592,Djibouti,2015,2.9
+593,Djibouti,2016,2.83
+594,Djibouti,2017,2.76
+595,Djibouti,2018,2.87
+596,Djibouti,2019,2.77
+597,Djibouti,2020,2.71
+598,Djibouti,2021,2.74
+599,Djibouti,2022,2.74
+600,Denmark,2006,9.52
+601,Denmark,2008,9.52
+602,Denmark,2010,9.52
+603,Denmark,2011,9.52
+604,Denmark,2012,9.52
+605,Denmark,2013,9.38
+606,Denmark,2014,9.11
+607,Denmark,2015,9.11
+608,Denmark,2016,9.2
+609,Denmark,2017,9.22
+610,Denmark,2018,9.22
+611,Denmark,2019,9.22
+612,Denmark,2020,9.15
+613,Denmark,2021,9.09
+614,Denmark,2022,9.28
+615,Dominican Republic,2006,6.13
+616,Dominican Republic,2008,6.2
+617,Dominican Republic,2010,6.2
+618,Dominican Republic,2011,6.2
+619,Dominican Republic,2012,6.49
+620,Dominican Republic,2013,6.74
+621,Dominican Republic,2014,6.67
+622,Dominican Republic,2015,6.67
+623,Dominican Republic,2016,6.67
+624,Dominican Republic,2017,6.66
+625,Dominican Republic,2018,6.54
+626,Dominican Republic,2019,6.54
+627,Dominican Republic,2020,6.32
+628,Dominican Republic,2021,6.45
+629,Dominican Republic,2022,6.39
+630,Algeria,2006,3.17
+631,Algeria,2008,3.32
+632,Algeria,2010,3.44
+633,Algeria,2011,3.44
+634,Algeria,2012,3.83
+635,Algeria,2013,3.83
+636,Algeria,2014,3.83
+637,Algeria,2015,3.95
+638,Algeria,2016,3.56
+639,Algeria,2017,3.56
+640,Algeria,2018,3.5
+641,Algeria,2019,4.01
+642,Algeria,2020,3.77
+643,Algeria,2021,3.77
+644,Algeria,2022,3.66
+645,Ecuador,2006,5.64
+646,Ecuador,2008,5.64
+647,Ecuador,2010,5.77
+648,Ecuador,2011,5.72
+649,Ecuador,2012,5.78
+650,Ecuador,2013,5.87
+651,Ecuador,2014,5.87
+652,Ecuador,2015,5.87
+653,Ecuador,2016,5.81
+654,Ecuador,2017,6.02
+655,Ecuador,2018,6.27
+656,Ecuador,2019,6.33
+657,Ecuador,2020,6.13
+658,Ecuador,2021,5.71
+659,Ecuador,2022,5.69
+660,"Egypt, Arab Rep.",2006,3.9
+661,"Egypt, Arab Rep.",2008,3.89
+662,"Egypt, Arab Rep.",2010,3.07
+663,"Egypt, Arab Rep.",2011,3.95
+664,"Egypt, Arab Rep.",2012,4.56
+665,"Egypt, Arab Rep.",2013,3.27
+666,"Egypt, Arab Rep.",2014,3.16
+667,"Egypt, Arab Rep.",2015,3.18
+668,"Egypt, Arab Rep.",2016,3.31
+669,"Egypt, Arab Rep.",2017,3.36
+670,"Egypt, Arab Rep.",2018,3.36
+671,"Egypt, Arab Rep.",2019,3.06
+672,"Egypt, Arab Rep.",2020,2.93
+673,"Egypt, Arab Rep.",2021,2.93
+674,"Egypt, Arab Rep.",2022,2.93
+675,Eritrea,2006,2.31
+676,Eritrea,2008,2.31
+677,Eritrea,2010,2.31
+678,Eritrea,2011,2.34
+679,Eritrea,2012,2.4
+680,Eritrea,2013,2.4
+681,Eritrea,2014,2.44
+682,Eritrea,2015,2.37
+683,Eritrea,2016,2.37
+684,Eritrea,2017,2.37
+685,Eritrea,2018,2.37
+686,Eritrea,2019,2.37
+687,Eritrea,2020,2.15
+688,Eritrea,2021,2.03
+689,Eritrea,2022,2.03
+690,Spain,2006,8.34
+691,Spain,2008,8.45
+692,Spain,2010,8.16
+693,Spain,2011,8.02
+694,Spain,2012,8.02
+695,Spain,2013,8.02
+696,Spain,2014,8.05
+697,Spain,2015,8.3
+698,Spain,2016,8.3
+699,Spain,2017,8.08
+700,Spain,2018,8.08
+701,Spain,2019,8.29
+702,Spain,2020,8.12
+703,Spain,2021,7.94
+704,Spain,2022,8.07
+705,Estonia,2006,7.74
+706,Estonia,2008,7.68
+707,Estonia,2010,7.68
+708,Estonia,2011,7.61
+709,Estonia,2012,7.61
+710,Estonia,2013,7.61
+711,Estonia,2014,7.74
+712,Estonia,2015,7.85
+713,Estonia,2016,7.85
+714,Estonia,2017,7.79
+715,Estonia,2018,7.97
+716,Estonia,2019,7.9
+717,Estonia,2020,7.84
+718,Estonia,2021,7.84
+719,Estonia,2022,7.96
+720,Ethiopia,2006,4.72
+721,Ethiopia,2008,4.52
+722,Ethiopia,2010,3.68
+723,Ethiopia,2011,3.79
+724,Ethiopia,2012,3.72
+725,Ethiopia,2013,3.83
+726,Ethiopia,2014,3.72
+727,Ethiopia,2015,3.83
+728,Ethiopia,2016,3.6
+729,Ethiopia,2017,3.42
+730,Ethiopia,2018,3.35
+731,Ethiopia,2019,3.44
+732,Ethiopia,2020,3.38
+733,Ethiopia,2021,3.3
+734,Ethiopia,2022,3.17
+735,Finland,2006,9.25
+736,Finland,2008,9.25
+737,Finland,2010,9.19
+738,Finland,2011,9.06
+739,Finland,2012,9.06
+740,Finland,2013,9.03
+741,Finland,2014,9.03
+742,Finland,2015,9.03
+743,Finland,2016,9.03
+744,Finland,2017,9.03
+745,Finland,2018,9.14
+746,Finland,2019,9.25
+747,Finland,2020,9.2
+748,Finland,2021,9.27
+749,Finland,2022,9.29
+750,Fiji,2006,5.66
+751,Fiji,2008,5.11
+752,Fiji,2010,3.62
+753,Fiji,2011,3.67
+754,Fiji,2012,3.67
+755,Fiji,2013,3.61
+756,Fiji,2014,5.61
+757,Fiji,2015,5.69
+758,Fiji,2016,5.64
+759,Fiji,2017,5.85
+760,Fiji,2018,5.85
+761,Fiji,2019,5.85
+762,Fiji,2020,5.72
+763,Fiji,2021,5.61
+764,Fiji,2022,5.55
+765,France,2006,8.07
+766,France,2008,8.07
+767,France,2010,7.77
+768,France,2011,7.77
+769,France,2012,7.88
+770,France,2013,7.92
+771,France,2014,8.04
+772,France,2015,7.92
+773,France,2016,7.92
+774,France,2017,7.8
+775,France,2018,7.8
+776,France,2019,8.12
+777,France,2020,7.99
+778,France,2021,7.99
+779,France,2022,8.07
+780,Gabon,2006,2.72
+781,Gabon,2008,3.0
+782,Gabon,2010,3.29
+783,Gabon,2011,3.48
+784,Gabon,2012,3.56
+785,Gabon,2013,3.76
+786,Gabon,2014,3.76
+787,Gabon,2015,3.76
+788,Gabon,2016,3.74
+789,Gabon,2017,3.61
+790,Gabon,2018,3.61
+791,Gabon,2019,3.61
+792,Gabon,2020,3.54
+793,Gabon,2021,3.4
+794,Gabon,2022,3.4
+795,United Kingdom,2006,8.08
+796,United Kingdom,2008,8.15
+797,United Kingdom,2010,8.16
+798,United Kingdom,2011,8.16
+799,United Kingdom,2012,8.21
+800,United Kingdom,2013,8.31
+801,United Kingdom,2014,8.31
+802,United Kingdom,2015,8.31
+803,United Kingdom,2016,8.36
+804,United Kingdom,2017,8.53
+805,United Kingdom,2018,8.53
+806,United Kingdom,2019,8.52
+807,United Kingdom,2020,8.54
+808,United Kingdom,2021,8.1
+809,United Kingdom,2022,8.28
+810,Georgia,2006,4.9
+811,Georgia,2008,4.62
+812,Georgia,2010,4.59
+813,Georgia,2011,4.74
+814,Georgia,2012,5.53
+815,Georgia,2013,5.95
+816,Georgia,2014,5.82
+817,Georgia,2015,5.88
+818,Georgia,2016,5.93
+819,Georgia,2017,5.93
+820,Georgia,2018,5.5
+821,Georgia,2019,5.42
+822,Georgia,2020,5.31
+823,Georgia,2021,5.12
+824,Georgia,2022,5.2
+825,Ghana,2006,5.35
+826,Ghana,2008,5.35
+827,Ghana,2010,6.02
+828,Ghana,2011,6.02
+829,Ghana,2012,6.02
+830,Ghana,2013,6.33
+831,Ghana,2014,6.33
+832,Ghana,2015,6.86
+833,Ghana,2016,6.75
+834,Ghana,2017,6.69
+835,Ghana,2018,6.63
+836,Ghana,2019,6.63
+837,Ghana,2020,6.5
+838,Ghana,2021,6.5
+839,Ghana,2022,6.43
+840,Guinea,2006,2.02
+841,Guinea,2008,2.09
+842,Guinea,2010,2.79
+843,Guinea,2011,2.79
+844,Guinea,2012,2.79
+845,Guinea,2013,2.84
+846,Guinea,2014,3.01
+847,Guinea,2015,3.14
+848,Guinea,2016,3.14
+849,Guinea,2017,3.14
+850,Guinea,2018,3.14
+851,Guinea,2019,3.14
+852,Guinea,2020,3.08
+853,Guinea,2021,2.28
+854,Guinea,2022,2.32
+855,"Gambia, The",2006,4.39
+856,"Gambia, The",2008,4.19
+857,"Gambia, The",2010,3.38
+858,"Gambia, The",2011,3.38
+859,"Gambia, The",2012,3.31
+860,"Gambia, The",2013,3.31
+861,"Gambia, The",2014,3.05
+862,"Gambia, The",2015,2.97
+863,"Gambia, The",2016,2.91
+864,"Gambia, The",2017,4.06
+865,"Gambia, The",2018,4.31
+866,"Gambia, The",2019,4.33
+867,"Gambia, The",2020,4.49
+868,"Gambia, The",2021,4.41
+869,"Gambia, The",2022,4.47
+870,Guinea-Bissau,2006,2.0
+871,Guinea-Bissau,2008,1.99
+872,Guinea-Bissau,2010,1.99
+873,Guinea-Bissau,2011,1.99
+874,Guinea-Bissau,2012,1.43
+875,Guinea-Bissau,2013,1.26
+876,Guinea-Bissau,2014,1.93
+877,Guinea-Bissau,2015,1.93
+878,Guinea-Bissau,2016,1.98
+879,Guinea-Bissau,2017,1.98
+880,Guinea-Bissau,2018,1.98
+881,Guinea-Bissau,2019,2.63
+882,Guinea-Bissau,2020,2.63
+883,Guinea-Bissau,2021,2.75
+884,Guinea-Bissau,2022,2.56
+885,Equatorial Guinea,2006,2.09
+886,Equatorial Guinea,2008,2.19
+887,Equatorial Guinea,2010,1.84
+888,Equatorial Guinea,2011,1.77
+889,Equatorial Guinea,2012,1.83
+890,Equatorial Guinea,2013,1.77
+891,Equatorial Guinea,2014,1.66
+892,Equatorial Guinea,2015,1.77
+893,Equatorial Guinea,2016,1.7
+894,Equatorial Guinea,2017,1.81
+895,Equatorial Guinea,2018,1.92
+896,Equatorial Guinea,2019,1.92
+897,Equatorial Guinea,2020,1.92
+898,Equatorial Guinea,2021,1.92
+899,Equatorial Guinea,2022,1.92
+900,Greece,2006,8.13
+901,Greece,2008,8.13
+902,Greece,2010,7.92
+903,Greece,2011,7.65
+904,Greece,2012,7.65
+905,Greece,2013,7.65
+906,Greece,2014,7.45
+907,Greece,2015,7.45
+908,Greece,2016,7.23
+909,Greece,2017,7.29
+910,Greece,2018,7.29
+911,Greece,2019,7.43
+912,Greece,2020,7.39
+913,Greece,2021,7.56
+914,Greece,2022,7.97
+915,Guatemala,2006,6.07
+916,Guatemala,2008,6.07
+917,Guatemala,2010,6.05
+918,Guatemala,2011,5.88
+919,Guatemala,2012,5.88
+920,Guatemala,2013,5.81
+921,Guatemala,2014,5.81
+922,Guatemala,2015,5.92
+923,Guatemala,2016,5.92
+924,Guatemala,2017,5.86
+925,Guatemala,2018,5.6
+926,Guatemala,2019,5.26
+927,Guatemala,2020,4.97
+928,Guatemala,2021,4.62
+929,Guatemala,2022,4.68
+930,Guyana,2006,6.15
+931,Guyana,2008,6.12
+932,Guyana,2010,6.05
+933,Guyana,2011,6.05
+934,Guyana,2012,6.05
+935,Guyana,2013,6.05
+936,Guyana,2014,5.91
+937,Guyana,2015,6.05
+938,Guyana,2016,6.25
+939,Guyana,2017,6.46
+940,Guyana,2018,6.67
+941,Guyana,2019,6.15
+942,Guyana,2020,6.01
+943,Guyana,2021,6.25
+944,Guyana,2022,6.34
+945,"Hong Kong SAR, China",2006,6.03
+946,"Hong Kong SAR, China",2008,5.85
+947,"Hong Kong SAR, China",2010,5.92
+948,"Hong Kong SAR, China",2011,5.92
+949,"Hong Kong SAR, China",2012,6.42
+950,"Hong Kong SAR, China",2013,6.42
+951,"Hong Kong SAR, China",2014,6.46
+952,"Hong Kong SAR, China",2015,6.5
+953,"Hong Kong SAR, China",2016,6.42
+954,"Hong Kong SAR, China",2017,6.31
+955,"Hong Kong SAR, China",2018,6.15
+956,"Hong Kong SAR, China",2019,6.02
+957,"Hong Kong SAR, China",2020,5.57
+958,"Hong Kong SAR, China",2021,5.6
+959,"Hong Kong SAR, China",2022,5.28
+960,Honduras,2006,6.25
+961,Honduras,2008,6.18
+962,Honduras,2010,5.76
+963,Honduras,2011,5.84
+964,Honduras,2012,5.84
+965,Honduras,2013,5.84
+966,Honduras,2014,5.84
+967,Honduras,2015,5.84
+968,Honduras,2016,5.92
+969,Honduras,2017,5.72
+970,Honduras,2018,5.63
+971,Honduras,2019,5.42
+972,Honduras,2020,5.36
+973,Honduras,2021,5.1
+974,Honduras,2022,5.15
+975,Croatia,2006,7.04
+976,Croatia,2008,7.04
+977,Croatia,2010,6.81
+978,Croatia,2011,6.73
+979,Croatia,2012,6.93
+980,Croatia,2013,6.93
+981,Croatia,2014,6.93
+982,Croatia,2015,6.93
+983,Croatia,2016,6.75
+984,Croatia,2017,6.63
+985,Croatia,2018,6.57
+986,Croatia,2019,6.57
+987,Croatia,2020,6.5
+988,Croatia,2021,6.5
+989,Croatia,2022,6.5
+990,Haiti,2006,4.19
+991,Haiti,2008,4.19
+992,Haiti,2010,4.0
+993,Haiti,2011,4.0
+994,Haiti,2012,3.96
+995,Haiti,2013,3.94
+996,Haiti,2014,3.82
+997,Haiti,2015,3.94
+998,Haiti,2016,4.02
+999,Haiti,2017,4.03
+1000,Haiti,2018,4.91
+1001,Haiti,2019,4.57
+1002,Haiti,2020,4.22
+1003,Haiti,2021,3.48
+1004,Haiti,2022,2.81
+1005,Hungary,2006,7.53
+1006,Hungary,2008,7.44
+1007,Hungary,2010,7.21
+1008,Hungary,2011,7.04
+1009,Hungary,2012,6.96
+1010,Hungary,2013,6.96
+1011,Hungary,2014,6.9
+1012,Hungary,2015,6.84
+1013,Hungary,2016,6.72
+1014,Hungary,2017,6.64
+1015,Hungary,2018,6.63
+1016,Hungary,2019,6.63
+1017,Hungary,2020,6.56
+1018,Hungary,2021,6.5
+1019,Hungary,2022,6.64
+1020,Indonesia,2006,6.41
+1021,Indonesia,2008,6.34
+1022,Indonesia,2010,6.53
+1023,Indonesia,2011,6.53
+1024,Indonesia,2012,6.76
+1025,Indonesia,2013,6.82
+1026,Indonesia,2014,6.95
+1027,Indonesia,2015,7.03
+1028,Indonesia,2016,6.97
+1029,Indonesia,2017,6.39
+1030,Indonesia,2018,6.39
+1031,Indonesia,2019,6.48
+1032,Indonesia,2020,6.3
+1033,Indonesia,2021,6.71
+1034,Indonesia,2022,6.71
+1035,India,2006,7.68
+1036,India,2008,7.8
+1037,India,2010,7.28
+1038,India,2011,7.3
+1039,India,2012,7.52
+1040,India,2013,7.69
+1041,India,2014,7.92
+1042,India,2015,7.74
+1043,India,2016,7.81
+1044,India,2017,7.23
+1045,India,2018,7.23
+1046,India,2019,6.9
+1047,India,2020,6.61
+1048,India,2021,6.91
+1049,India,2022,7.04
+1050,Ireland,2006,9.01
+1051,Ireland,2008,9.01
+1052,Ireland,2010,8.79
+1053,Ireland,2011,8.56
+1054,Ireland,2012,8.56
+1055,Ireland,2013,8.68
+1056,Ireland,2014,8.72
+1057,Ireland,2015,8.85
+1058,Ireland,2016,9.15
+1059,Ireland,2017,9.15
+1060,Ireland,2018,9.15
+1061,Ireland,2019,9.24
+1062,Ireland,2020,9.05
+1063,Ireland,2021,9.0
+1064,Ireland,2022,9.13
+1065,"Iran, Islamic Rep.",2006,2.93
+1066,"Iran, Islamic Rep.",2008,2.83
+1067,"Iran, Islamic Rep.",2010,1.94
+1068,"Iran, Islamic Rep.",2011,1.98
+1069,"Iran, Islamic Rep.",2012,1.98
+1070,"Iran, Islamic Rep.",2013,1.98
+1071,"Iran, Islamic Rep.",2014,1.98
+1072,"Iran, Islamic Rep.",2015,2.16
+1073,"Iran, Islamic Rep.",2016,2.34
+1074,"Iran, Islamic Rep.",2017,2.45
+1075,"Iran, Islamic Rep.",2018,2.45
+1076,"Iran, Islamic Rep.",2019,2.38
+1077,"Iran, Islamic Rep.",2020,2.2
+1078,"Iran, Islamic Rep.",2021,1.95
+1079,"Iran, Islamic Rep.",2022,1.96
+1080,Iraq,2006,4.01
+1081,Iraq,2008,4.0
+1082,Iraq,2010,4.0
+1083,Iraq,2011,4.03
+1084,Iraq,2012,4.1
+1085,Iraq,2013,4.1
+1086,Iraq,2014,4.23
+1087,Iraq,2015,4.08
+1088,Iraq,2016,4.08
+1089,Iraq,2017,4.09
+1090,Iraq,2018,4.06
+1091,Iraq,2019,3.74
+1092,Iraq,2020,3.62
+1093,Iraq,2021,3.51
+1094,Iraq,2022,3.13
+1095,Iceland,2006,9.71
+1096,Iceland,2008,9.65
+1097,Iceland,2010,9.65
+1098,Iceland,2011,9.65
+1099,Iceland,2012,9.65
+1100,Iceland,2013,9.65
+1101,Iceland,2014,9.58
+1102,Iceland,2015,9.58
+1103,Iceland,2016,9.5
+1104,Iceland,2017,9.58
+1105,Iceland,2018,9.58
+1106,Iceland,2019,9.58
+1107,Iceland,2020,9.37
+1108,Iceland,2021,9.18
+1109,Iceland,2022,9.52
+1110,Israel,2006,7.28
+1111,Israel,2008,7.48
+1112,Israel,2010,7.48
+1113,Israel,2011,7.53
+1114,Israel,2012,7.53
+1115,Israel,2013,7.53
+1116,Israel,2014,7.63
+1117,Israel,2015,7.77
+1118,Israel,2016,7.85
+1119,Israel,2017,7.79
+1120,Israel,2018,7.79
+1121,Israel,2019,7.86
+1122,Israel,2020,7.84
+1123,Israel,2021,7.97
+1124,Israel,2022,7.93
+1125,Italy,2006,7.73
+1126,Italy,2008,7.98
+1127,Italy,2010,7.83
+1128,Italy,2011,7.74
+1129,Italy,2012,7.74
+1130,Italy,2013,7.85
+1131,Italy,2014,7.85
+1132,Italy,2015,7.98
+1133,Italy,2016,7.98
+1134,Italy,2017,7.98
+1135,Italy,2018,7.71
+1136,Italy,2019,7.52
+1137,Italy,2020,7.74
+1138,Italy,2021,7.68
+1139,Italy,2022,7.69
+1140,Jamaica,2006,7.34
+1141,Jamaica,2008,7.21
+1142,Jamaica,2010,7.21
+1143,Jamaica,2011,7.13
+1144,Jamaica,2012,7.39
+1145,Jamaica,2013,7.39
+1146,Jamaica,2014,7.39
+1147,Jamaica,2015,7.39
+1148,Jamaica,2016,7.39
+1149,Jamaica,2017,7.29
+1150,Jamaica,2018,7.02
+1151,Jamaica,2019,6.96
+1152,Jamaica,2020,7.13
+1153,Jamaica,2021,7.13
+1154,Jamaica,2022,7.13
+1155,Jordan,2006,3.92
+1156,Jordan,2008,3.93
+1157,Jordan,2010,3.74
+1158,Jordan,2011,3.89
+1159,Jordan,2012,3.76
+1160,Jordan,2013,3.76
+1161,Jordan,2014,3.76
+1162,Jordan,2015,3.86
+1163,Jordan,2016,3.96
+1164,Jordan,2017,3.87
+1165,Jordan,2018,3.93
+1166,Jordan,2019,3.93
+1167,Jordan,2020,3.62
+1168,Jordan,2021,3.49
+1169,Jordan,2022,3.17
+1170,Japan,2006,8.15
+1171,Japan,2008,8.25
+1172,Japan,2010,8.08
+1173,Japan,2011,8.08
+1174,Japan,2012,8.08
+1175,Japan,2013,8.08
+1176,Japan,2014,8.08
+1177,Japan,2015,7.96
+1178,Japan,2016,7.99
+1179,Japan,2017,7.88
+1180,Japan,2018,7.99
+1181,Japan,2019,7.99
+1182,Japan,2020,8.13
+1183,Japan,2021,8.15
+1184,Japan,2022,8.33
+1185,Kazakhstan,2006,3.62
+1186,Kazakhstan,2008,3.45
+1187,Kazakhstan,2010,3.3
+1188,Kazakhstan,2011,3.24
+1189,Kazakhstan,2012,2.95
+1190,Kazakhstan,2013,3.06
+1191,Kazakhstan,2014,3.17
+1192,Kazakhstan,2015,3.06
+1193,Kazakhstan,2016,3.06
+1194,Kazakhstan,2017,3.06
+1195,Kazakhstan,2018,2.94
+1196,Kazakhstan,2019,2.94
+1197,Kazakhstan,2020,3.14
+1198,Kazakhstan,2021,3.08
+1199,Kazakhstan,2022,3.08
+1200,Kenya,2006,5.08
+1201,Kenya,2008,4.79
+1202,Kenya,2010,4.71
+1203,Kenya,2011,4.71
+1204,Kenya,2012,4.71
+1205,Kenya,2013,5.13
+1206,Kenya,2014,5.13
+1207,Kenya,2015,5.33
+1208,Kenya,2016,5.33
+1209,Kenya,2017,5.11
+1210,Kenya,2018,5.11
+1211,Kenya,2019,5.18
+1212,Kenya,2020,5.05
+1213,Kenya,2021,5.05
+1214,Kenya,2022,5.05
+1215,Kyrgyz Republic,2006,4.08
+1216,Kyrgyz Republic,2008,4.05
+1217,Kyrgyz Republic,2010,4.31
+1218,Kyrgyz Republic,2011,4.34
+1219,Kyrgyz Republic,2012,4.69
+1220,Kyrgyz Republic,2013,4.69
+1221,Kyrgyz Republic,2014,5.24
+1222,Kyrgyz Republic,2015,5.33
+1223,Kyrgyz Republic,2016,4.93
+1224,Kyrgyz Republic,2017,5.11
+1225,Kyrgyz Republic,2018,5.11
+1226,Kyrgyz Republic,2019,4.89
+1227,Kyrgyz Republic,2020,4.21
+1228,Kyrgyz Republic,2021,3.62
+1229,Kyrgyz Republic,2022,3.62
+1230,Cambodia,2006,4.77
+1231,Cambodia,2008,4.87
+1232,Cambodia,2010,4.87
+1233,Cambodia,2011,4.87
+1234,Cambodia,2012,4.96
+1235,Cambodia,2013,4.6
+1236,Cambodia,2014,4.78
+1237,Cambodia,2015,4.27
+1238,Cambodia,2016,4.27
+1239,Cambodia,2017,3.63
+1240,Cambodia,2018,3.59
+1241,Cambodia,2019,3.53
+1242,Cambodia,2020,3.1
+1243,Cambodia,2021,2.9
+1244,Cambodia,2022,3.18
+1245,"Korea, Rep.",2006,7.88
+1246,"Korea, Rep.",2008,8.01
+1247,"Korea, Rep.",2010,8.11
+1248,"Korea, Rep.",2011,8.06
+1249,"Korea, Rep.",2012,8.13
+1250,"Korea, Rep.",2013,8.06
+1251,"Korea, Rep.",2014,8.06
+1252,"Korea, Rep.",2015,7.97
+1253,"Korea, Rep.",2016,7.92
+1254,"Korea, Rep.",2017,8.0
+1255,"Korea, Rep.",2018,8.0
+1256,"Korea, Rep.",2019,8.0
+1257,"Korea, Rep.",2020,8.01
+1258,"Korea, Rep.",2021,8.16
+1259,"Korea, Rep.",2022,8.03
+1260,Kuwait,2006,3.09
+1261,Kuwait,2008,3.39
+1262,Kuwait,2010,3.88
+1263,Kuwait,2011,3.74
+1264,Kuwait,2012,3.78
+1265,Kuwait,2013,3.78
+1266,Kuwait,2014,3.78
+1267,Kuwait,2015,3.85
+1268,Kuwait,2016,3.85
+1269,Kuwait,2017,3.85
+1270,Kuwait,2018,3.85
+1271,Kuwait,2019,3.93
+1272,Kuwait,2020,3.8
+1273,Kuwait,2021,3.91
+1274,Kuwait,2022,3.83
+1275,Lao PDR,2006,2.1
+1276,Lao PDR,2008,2.1
+1277,Lao PDR,2010,2.1
+1278,Lao PDR,2011,2.1
+1279,Lao PDR,2012,2.32
+1280,Lao PDR,2013,2.21
+1281,Lao PDR,2014,2.21
+1282,Lao PDR,2015,2.21
+1283,Lao PDR,2016,2.37
+1284,Lao PDR,2017,2.37
+1285,Lao PDR,2018,2.37
+1286,Lao PDR,2019,2.14
+1287,Lao PDR,2020,1.77
+1288,Lao PDR,2021,1.77
+1289,Lao PDR,2022,1.77
+1290,Lebanon,2006,5.82
+1291,Lebanon,2008,5.62
+1292,Lebanon,2010,5.82
+1293,Lebanon,2011,5.32
+1294,Lebanon,2012,5.05
+1295,Lebanon,2013,5.05
+1296,Lebanon,2014,5.12
+1297,Lebanon,2015,4.86
+1298,Lebanon,2016,4.86
+1299,Lebanon,2017,4.72
+1300,Lebanon,2018,4.63
+1301,Lebanon,2019,4.36
+1302,Lebanon,2020,4.16
+1303,Lebanon,2021,3.84
+1304,Lebanon,2022,3.64
+1305,Liberia,2006,5.22
+1306,Liberia,2008,5.25
+1307,Liberia,2010,5.07
+1308,Liberia,2011,5.07
+1309,Liberia,2012,4.95
+1310,Liberia,2013,4.95
+1311,Liberia,2014,4.95
+1312,Liberia,2015,4.95
+1313,Liberia,2016,5.31
+1314,Liberia,2017,5.23
+1315,Liberia,2018,5.35
+1316,Liberia,2019,5.45
+1317,Liberia,2020,5.32
+1318,Liberia,2021,5.43
+1319,Liberia,2022,5.43
+1320,Libya,2006,1.84
+1321,Libya,2008,2.0
+1322,Libya,2010,1.94
+1323,Libya,2011,3.55
+1324,Libya,2012,5.15
+1325,Libya,2013,4.82
+1326,Libya,2014,3.8
+1327,Libya,2015,2.25
+1328,Libya,2016,2.25
+1329,Libya,2017,2.32
+1330,Libya,2018,2.19
+1331,Libya,2019,2.02
+1332,Libya,2020,1.95
+1333,Libya,2021,1.95
+1334,Libya,2022,2.06
+1335,Sri Lanka,2006,6.58
+1336,Sri Lanka,2008,6.61
+1337,Sri Lanka,2010,6.64
+1338,Sri Lanka,2011,6.58
+1339,Sri Lanka,2012,5.75
+1340,Sri Lanka,2013,5.69
+1341,Sri Lanka,2014,5.69
+1342,Sri Lanka,2015,6.42
+1343,Sri Lanka,2016,6.48
+1344,Sri Lanka,2017,6.48
+1345,Sri Lanka,2018,6.19
+1346,Sri Lanka,2019,6.27
+1347,Sri Lanka,2020,6.14
+1348,Sri Lanka,2021,6.14
+1349,Sri Lanka,2022,6.47
+1350,Lesotho,2006,6.48
+1351,Lesotho,2008,6.29
+1352,Lesotho,2010,6.02
+1353,Lesotho,2011,6.33
+1354,Lesotho,2012,6.66
+1355,Lesotho,2013,6.66
+1356,Lesotho,2014,6.66
+1357,Lesotho,2015,6.59
+1358,Lesotho,2016,6.59
+1359,Lesotho,2017,6.64
+1360,Lesotho,2018,6.64
+1361,Lesotho,2019,6.54
+1362,Lesotho,2020,6.3
+1363,Lesotho,2021,6.3
+1364,Lesotho,2022,6.19
+1365,Lithuania,2006,7.43
+1366,Lithuania,2008,7.36
+1367,Lithuania,2010,7.24
+1368,Lithuania,2011,7.24
+1369,Lithuania,2012,7.24
+1370,Lithuania,2013,7.54
+1371,Lithuania,2014,7.54
+1372,Lithuania,2015,7.54
+1373,Lithuania,2016,7.47
+1374,Lithuania,2017,7.41
+1375,Lithuania,2018,7.5
+1376,Lithuania,2019,7.5
+1377,Lithuania,2020,7.13
+1378,Lithuania,2021,7.18
+1379,Lithuania,2022,7.31
+1380,Luxembourg,2006,9.1
+1381,Luxembourg,2008,9.1
+1382,Luxembourg,2010,8.88
+1383,Luxembourg,2011,8.88
+1384,Luxembourg,2012,8.88
+1385,Luxembourg,2013,8.88
+1386,Luxembourg,2014,8.88
+1387,Luxembourg,2015,8.88
+1388,Luxembourg,2016,8.81
+1389,Luxembourg,2017,8.81
+1390,Luxembourg,2018,8.81
+1391,Luxembourg,2019,8.81
+1392,Luxembourg,2020,8.68
+1393,Luxembourg,2021,8.68
+1394,Luxembourg,2022,8.81
+1395,Latvia,2006,7.37
+1396,Latvia,2008,7.23
+1397,Latvia,2010,7.05
+1398,Latvia,2011,7.05
+1399,Latvia,2012,7.05
+1400,Latvia,2013,7.05
+1401,Latvia,2014,7.48
+1402,Latvia,2015,7.37
+1403,Latvia,2016,7.31
+1404,Latvia,2017,7.25
+1405,Latvia,2018,7.38
+1406,Latvia,2019,7.49
+1407,Latvia,2020,7.24
+1408,Latvia,2021,7.31
+1409,Latvia,2022,7.37
+1410,Morocco,2006,3.9
+1411,Morocco,2008,3.88
+1412,Morocco,2010,3.79
+1413,Morocco,2011,3.83
+1414,Morocco,2012,4.07
+1415,Morocco,2013,4.07
+1416,Morocco,2014,4.0
+1417,Morocco,2015,4.66
+1418,Morocco,2016,4.77
+1419,Morocco,2017,4.87
+1420,Morocco,2018,4.99
+1421,Morocco,2019,5.1
+1422,Morocco,2020,5.04
+1423,Morocco,2021,5.04
+1424,Morocco,2022,5.04
+1425,Moldova,2006,6.5
+1426,Moldova,2008,6.5
+1427,Moldova,2010,6.33
+1428,Moldova,2011,6.33
+1429,Moldova,2012,6.32
+1430,Moldova,2013,6.32
+1431,Moldova,2014,6.32
+1432,Moldova,2015,6.35
+1433,Moldova,2016,6.01
+1434,Moldova,2017,5.94
+1435,Moldova,2018,5.85
+1436,Moldova,2019,5.75
+1437,Moldova,2020,5.78
+1438,Moldova,2021,6.1
+1439,Moldova,2022,6.23
+1440,Madagascar,2006,5.82
+1441,Madagascar,2008,5.57
+1442,Madagascar,2010,3.94
+1443,Madagascar,2011,3.93
+1444,Madagascar,2012,3.93
+1445,Madagascar,2013,4.32
+1446,Madagascar,2014,4.42
+1447,Madagascar,2015,4.85
+1448,Madagascar,2016,5.07
+1449,Madagascar,2017,5.11
+1450,Madagascar,2018,5.22
+1451,Madagascar,2019,5.64
+1452,Madagascar,2020,5.7
+1453,Madagascar,2021,5.7
+1454,Madagascar,2022,5.7
+1455,Mexico,2006,6.67
+1456,Mexico,2008,6.78
+1457,Mexico,2010,6.93
+1458,Mexico,2011,6.93
+1459,Mexico,2012,6.9
+1460,Mexico,2013,6.91
+1461,Mexico,2014,6.68
+1462,Mexico,2015,6.55
+1463,Mexico,2016,6.47
+1464,Mexico,2017,6.41
+1465,Mexico,2018,6.19
+1466,Mexico,2019,6.09
+1467,Mexico,2020,6.07
+1468,Mexico,2021,5.57
+1469,Mexico,2022,5.25
+1470,North Macedonia,2006,6.33
+1471,North Macedonia,2008,6.21
+1472,North Macedonia,2010,6.16
+1473,North Macedonia,2011,6.16
+1474,North Macedonia,2012,6.16
+1475,North Macedonia,2013,6.16
+1476,North Macedonia,2014,6.25
+1477,North Macedonia,2015,6.02
+1478,North Macedonia,2016,5.23
+1479,North Macedonia,2017,5.57
+1480,North Macedonia,2018,5.87
+1481,North Macedonia,2019,5.97
+1482,North Macedonia,2020,5.89
+1483,North Macedonia,2021,6.03
+1484,North Macedonia,2022,6.1
+1485,Mali,2006,5.99
+1486,Mali,2008,5.87
+1487,Mali,2010,6.01
+1488,Mali,2011,6.36
+1489,Mali,2012,5.12
+1490,Mali,2013,5.9
+1491,Mali,2014,5.79
+1492,Mali,2015,5.7
+1493,Mali,2016,5.7
+1494,Mali,2017,5.64
+1495,Mali,2018,5.41
+1496,Mali,2019,4.92
+1497,Mali,2020,3.93
+1498,Mali,2021,3.48
+1499,Mali,2022,3.23
+1500,Malta,2006,8.39
+1501,Malta,2008,8.39
+1502,Malta,2010,8.28
+1503,Malta,2011,8.28
+1504,Malta,2012,8.28
+1505,Malta,2013,8.28
+1506,Malta,2014,8.39
+1507,Malta,2015,8.39
+1508,Malta,2016,8.39
+1509,Malta,2017,8.15
+1510,Malta,2018,8.21
+1511,Malta,2019,7.95
+1512,Malta,2020,7.68
+1513,Malta,2021,7.57
+1514,Malta,2022,7.7
+1515,Myanmar,2006,1.77
+1516,Myanmar,2008,1.77
+1517,Myanmar,2010,1.77
+1518,Myanmar,2011,1.77
+1519,Myanmar,2012,2.35
+1520,Myanmar,2013,2.76
+1521,Myanmar,2014,3.05
+1522,Myanmar,2015,4.14
+1523,Myanmar,2016,4.2
+1524,Myanmar,2017,3.83
+1525,Myanmar,2018,3.83
+1526,Myanmar,2019,3.55
+1527,Myanmar,2020,3.04
+1528,Myanmar,2021,1.02
+1529,Myanmar,2022,0.74
+1530,Montenegro,2006,6.57
+1531,Montenegro,2008,6.43
+1532,Montenegro,2010,6.27
+1533,Montenegro,2011,6.15
+1534,Montenegro,2012,6.05
+1535,Montenegro,2013,5.94
+1536,Montenegro,2014,5.94
+1537,Montenegro,2015,6.01
+1538,Montenegro,2016,5.72
+1539,Montenegro,2017,5.69
+1540,Montenegro,2018,5.74
+1541,Montenegro,2019,5.65
+1542,Montenegro,2020,5.77
+1543,Montenegro,2021,6.02
+1544,Montenegro,2022,6.45
+1545,Mongolia,2006,6.6
+1546,Mongolia,2008,6.6
+1547,Mongolia,2010,6.36
+1548,Mongolia,2011,6.23
+1549,Mongolia,2012,6.35
+1550,Mongolia,2013,6.51
+1551,Mongolia,2014,6.62
+1552,Mongolia,2015,6.62
+1553,Mongolia,2016,6.62
+1554,Mongolia,2017,6.5
+1555,Mongolia,2018,6.5
+1556,Mongolia,2019,6.5
+1557,Mongolia,2020,6.48
+1558,Mongolia,2021,6.42
+1559,Mongolia,2022,6.35
+1560,Mozambique,2006,5.28
+1561,Mozambique,2008,5.49
+1562,Mozambique,2010,4.9
+1563,Mozambique,2011,4.9
+1564,Mozambique,2012,4.88
+1565,Mozambique,2013,4.77
+1566,Mozambique,2014,4.66
+1567,Mozambique,2015,4.6
+1568,Mozambique,2016,4.02
+1569,Mozambique,2017,4.02
+1570,Mozambique,2018,3.85
+1571,Mozambique,2019,3.65
+1572,Mozambique,2020,3.51
+1573,Mozambique,2021,3.51
+1574,Mozambique,2022,3.51
+1575,Mauritania,2006,3.12
+1576,Mauritania,2008,3.91
+1577,Mauritania,2010,3.86
+1578,Mauritania,2011,4.17
+1579,Mauritania,2012,4.17
+1580,Mauritania,2013,4.17
+1581,Mauritania,2014,4.17
+1582,Mauritania,2015,3.96
+1583,Mauritania,2016,3.96
+1584,Mauritania,2017,3.82
+1585,Mauritania,2018,3.82
+1586,Mauritania,2019,3.92
+1587,Mauritania,2020,3.92
+1588,Mauritania,2021,4.03
+1589,Mauritania,2022,4.03
+1590,Mauritius,2006,8.04
+1591,Mauritius,2008,8.04
+1592,Mauritius,2010,8.04
+1593,Mauritius,2011,8.04
+1594,Mauritius,2012,8.17
+1595,Mauritius,2013,8.17
+1596,Mauritius,2014,8.17
+1597,Mauritius,2015,8.28
+1598,Mauritius,2016,8.28
+1599,Mauritius,2017,8.22
+1600,Mauritius,2018,8.22
+1601,Mauritius,2019,8.22
+1602,Mauritius,2020,8.14
+1603,Mauritius,2021,8.08
+1604,Mauritius,2022,8.14
+1605,Malawi,2006,4.97
+1606,Malawi,2008,5.13
+1607,Malawi,2010,5.84
+1608,Malawi,2011,5.84
+1609,Malawi,2012,6.08
+1610,Malawi,2013,6.0
+1611,Malawi,2014,5.66
+1612,Malawi,2015,5.55
+1613,Malawi,2016,5.55
+1614,Malawi,2017,5.49
+1615,Malawi,2018,5.49
+1616,Malawi,2019,5.5
+1617,Malawi,2020,5.74
+1618,Malawi,2021,5.74
+1619,Malawi,2022,5.91
+1620,Malaysia,2006,5.98
+1621,Malaysia,2008,6.36
+1622,Malaysia,2010,6.19
+1623,Malaysia,2011,6.19
+1624,Malaysia,2012,6.41
+1625,Malaysia,2013,6.49
+1626,Malaysia,2014,6.49
+1627,Malaysia,2015,6.43
+1628,Malaysia,2016,6.54
+1629,Malaysia,2017,6.54
+1630,Malaysia,2018,6.88
+1631,Malaysia,2019,7.16
+1632,Malaysia,2020,7.19
+1633,Malaysia,2021,7.24
+1634,Malaysia,2022,7.3
+1635,Namibia,2006,6.54
+1636,Namibia,2008,6.48
+1637,Namibia,2010,6.23
+1638,Namibia,2011,6.24
+1639,Namibia,2012,6.24
+1640,Namibia,2013,6.24
+1641,Namibia,2014,6.24
+1642,Namibia,2015,6.31
+1643,Namibia,2016,6.31
+1644,Namibia,2017,6.31
+1645,Namibia,2018,6.25
+1646,Namibia,2019,6.43
+1647,Namibia,2020,6.52
+1648,Namibia,2021,6.52
+1649,Namibia,2022,6.52
+1650,Niger,2006,3.54
+1651,Niger,2008,3.41
+1652,Niger,2010,3.38
+1653,Niger,2011,4.16
+1654,Niger,2012,4.16
+1655,Niger,2013,4.08
+1656,Niger,2014,4.02
+1657,Niger,2015,3.85
+1658,Niger,2016,3.96
+1659,Niger,2017,3.76
+1660,Niger,2018,3.76
+1661,Niger,2019,3.29
+1662,Niger,2020,3.29
+1663,Niger,2021,3.22
+1664,Niger,2022,3.73
+1665,Nigeria,2006,3.52
+1666,Nigeria,2008,3.53
+1667,Nigeria,2010,3.47
+1668,Nigeria,2011,3.83
+1669,Nigeria,2012,3.77
+1670,Nigeria,2013,3.77
+1671,Nigeria,2014,3.76
+1672,Nigeria,2015,4.62
+1673,Nigeria,2016,4.5
+1674,Nigeria,2017,4.44
+1675,Nigeria,2018,4.44
+1676,Nigeria,2019,4.12
+1677,Nigeria,2020,4.1
+1678,Nigeria,2021,4.11
+1679,Nigeria,2022,4.23
+1680,Nicaragua,2006,5.68
+1681,Nicaragua,2008,6.07
+1682,Nicaragua,2010,5.73
+1683,Nicaragua,2011,5.56
+1684,Nicaragua,2012,5.56
+1685,Nicaragua,2013,5.46
+1686,Nicaragua,2014,5.32
+1687,Nicaragua,2015,5.26
+1688,Nicaragua,2016,4.81
+1689,Nicaragua,2017,4.66
+1690,Nicaragua,2018,3.63
+1691,Nicaragua,2019,3.55
+1692,Nicaragua,2020,3.6
+1693,Nicaragua,2021,2.69
+1694,Nicaragua,2022,2.5
+1695,Netherlands,2006,9.66
+1696,Netherlands,2008,9.53
+1697,Netherlands,2010,8.99
+1698,Netherlands,2011,8.99
+1699,Netherlands,2012,8.99
+1700,Netherlands,2013,8.84
+1701,Netherlands,2014,8.92
+1702,Netherlands,2015,8.92
+1703,Netherlands,2016,8.8
+1704,Netherlands,2017,8.89
+1705,Netherlands,2018,8.89
+1706,Netherlands,2019,9.01
+1707,Netherlands,2020,8.96
+1708,Netherlands,2021,8.88
+1709,Netherlands,2022,9.0
+1710,Norway,2006,9.55
+1711,Norway,2008,9.68
+1712,Norway,2010,9.8
+1713,Norway,2011,9.8
+1714,Norway,2012,9.93
+1715,Norway,2013,9.93
+1716,Norway,2014,9.93
+1717,Norway,2015,9.93
+1718,Norway,2016,9.93
+1719,Norway,2017,9.87
+1720,Norway,2018,9.87
+1721,Norway,2019,9.87
+1722,Norway,2020,9.81
+1723,Norway,2021,9.75
+1724,Norway,2022,9.81
+1725,Nepal,2006,3.42
+1726,Nepal,2008,4.05
+1727,Nepal,2010,4.24
+1728,Nepal,2011,4.24
+1729,Nepal,2012,4.16
+1730,Nepal,2013,4.77
+1731,Nepal,2014,4.77
+1732,Nepal,2015,4.77
+1733,Nepal,2016,4.86
+1734,Nepal,2017,5.18
+1735,Nepal,2018,5.18
+1736,Nepal,2019,5.28
+1737,Nepal,2020,5.22
+1738,Nepal,2021,4.41
+1739,Nepal,2022,4.49
+1740,New Zealand,2006,9.01
+1741,New Zealand,2008,9.19
+1742,New Zealand,2010,9.26
+1743,New Zealand,2011,9.26
+1744,New Zealand,2012,9.26
+1745,New Zealand,2013,9.26
+1746,New Zealand,2014,9.26
+1747,New Zealand,2015,9.26
+1748,New Zealand,2016,9.26
+1749,New Zealand,2017,9.26
+1750,New Zealand,2018,9.26
+1751,New Zealand,2019,9.26
+1752,New Zealand,2020,9.25
+1753,New Zealand,2021,9.37
+1754,New Zealand,2022,9.61
+1755,Oman,2006,2.77
+1756,Oman,2008,2.98
+1757,Oman,2010,2.86
+1758,Oman,2011,3.26
+1759,Oman,2012,3.26
+1760,Oman,2013,3.26
+1761,Oman,2014,3.15
+1762,Oman,2015,3.04
+1763,Oman,2016,3.04
+1764,Oman,2017,3.04
+1765,Oman,2018,3.04
+1766,Oman,2019,3.06
+1767,Oman,2020,3.0
+1768,Oman,2021,3.0
+1769,Oman,2022,3.12
+1770,Pakistan,2006,3.92
+1771,Pakistan,2008,4.46
+1772,Pakistan,2010,4.55
+1773,Pakistan,2011,4.55
+1774,Pakistan,2012,4.57
+1775,Pakistan,2013,4.64
+1776,Pakistan,2014,4.64
+1777,Pakistan,2015,4.4
+1778,Pakistan,2016,4.33
+1779,Pakistan,2017,4.26
+1780,Pakistan,2018,4.17
+1781,Pakistan,2019,4.25
+1782,Pakistan,2020,4.31
+1783,Pakistan,2021,4.31
+1784,Pakistan,2022,4.13
+1785,Panama,2006,7.35
+1786,Panama,2008,7.35
+1787,Panama,2010,7.15
+1788,Panama,2011,7.08
+1789,Panama,2012,7.08
+1790,Panama,2013,7.08
+1791,Panama,2014,7.08
+1792,Panama,2015,7.19
+1793,Panama,2016,7.13
+1794,Panama,2017,7.08
+1795,Panama,2018,7.05
+1796,Panama,2019,7.05
+1797,Panama,2020,7.18
+1798,Panama,2021,6.85
+1799,Panama,2022,6.91
+1800,Peru,2006,6.11
+1801,Peru,2008,6.31
+1802,Peru,2010,6.4
+1803,Peru,2011,6.59
+1804,Peru,2012,6.47
+1805,Peru,2013,6.54
+1806,Peru,2014,6.54
+1807,Peru,2015,6.58
+1808,Peru,2016,6.65
+1809,Peru,2017,6.49
+1810,Peru,2018,6.6
+1811,Peru,2019,6.6
+1812,Peru,2020,6.53
+1813,Peru,2021,6.09
+1814,Peru,2022,5.92
+1815,Philippines,2006,6.48
+1816,Philippines,2008,6.12
+1817,Philippines,2010,6.12
+1818,Philippines,2011,6.12
+1819,Philippines,2012,6.3
+1820,Philippines,2013,6.41
+1821,Philippines,2014,6.77
+1822,Philippines,2015,6.84
+1823,Philippines,2016,6.94
+1824,Philippines,2017,6.71
+1825,Philippines,2018,6.71
+1826,Philippines,2019,6.64
+1827,Philippines,2020,6.56
+1828,Philippines,2021,6.62
+1829,Philippines,2022,6.73
+1830,Papua New Guinea,2006,6.54
+1831,Papua New Guinea,2008,6.54
+1832,Papua New Guinea,2010,6.54
+1833,Papua New Guinea,2011,6.32
+1834,Papua New Guinea,2012,6.32
+1835,Papua New Guinea,2013,6.36
+1836,Papua New Guinea,2014,6.03
+1837,Papua New Guinea,2015,6.03
+1838,Papua New Guinea,2016,6.03
+1839,Papua New Guinea,2017,6.03
+1840,Papua New Guinea,2018,6.03
+1841,Papua New Guinea,2019,6.03
+1842,Papua New Guinea,2020,6.1
+1843,Papua New Guinea,2021,6.1
+1844,Papua New Guinea,2022,5.97
+1845,Poland,2006,7.3
+1846,Poland,2008,7.3
+1847,Poland,2010,7.05
+1848,Poland,2011,7.12
+1849,Poland,2012,7.12
+1850,Poland,2013,7.12
+1851,Poland,2014,7.47
+1852,Poland,2015,7.09
+1853,Poland,2016,6.83
+1854,Poland,2017,6.67
+1855,Poland,2018,6.67
+1856,Poland,2019,6.62
+1857,Poland,2020,6.85
+1858,Poland,2021,6.8
+1859,Poland,2022,7.04
+1860,"Korea, Dem. People's Rep.",2006,1.03
+1861,"Korea, Dem. People's Rep.",2008,0.86
+1862,"Korea, Dem. People's Rep.",2010,1.08
+1863,"Korea, Dem. People's Rep.",2011,1.08
+1864,"Korea, Dem. People's Rep.",2012,1.08
+1865,"Korea, Dem. People's Rep.",2013,1.08
+1866,"Korea, Dem. People's Rep.",2014,1.08
+1867,"Korea, Dem. People's Rep.",2015,1.08
+1868,"Korea, Dem. People's Rep.",2016,1.08
+1869,"Korea, Dem. People's Rep.",2017,1.08
+1870,"Korea, Dem. People's Rep.",2018,1.08
+1871,"Korea, Dem. People's Rep.",2019,1.08
+1872,"Korea, Dem. People's Rep.",2020,1.08
+1873,"Korea, Dem. People's Rep.",2021,1.08
+1874,"Korea, Dem. People's Rep.",2022,1.08
+1875,Portugal,2006,8.16
+1876,Portugal,2008,8.05
+1877,Portugal,2010,8.02
+1878,Portugal,2011,7.81
+1879,Portugal,2012,7.92
+1880,Portugal,2013,7.65
+1881,Portugal,2014,7.79
+1882,Portugal,2015,7.79
+1883,Portugal,2016,7.86
+1884,Portugal,2017,7.84
+1885,Portugal,2018,7.84
+1886,Portugal,2019,8.03
+1887,Portugal,2020,7.9
+1888,Portugal,2021,7.82
+1889,Portugal,2022,7.95
+1890,Paraguay,2006,6.16
+1891,Paraguay,2008,6.4
+1892,Paraguay,2010,6.4
+1893,Paraguay,2011,6.4
+1894,Paraguay,2012,6.26
+1895,Paraguay,2013,6.26
+1896,Paraguay,2014,6.26
+1897,Paraguay,2015,6.33
+1898,Paraguay,2016,6.27
+1899,Paraguay,2017,6.31
+1900,Paraguay,2018,6.24
+1901,Paraguay,2019,6.24
+1902,Paraguay,2020,6.18
+1903,Paraguay,2021,5.86
+1904,Paraguay,2022,5.89
+1905,West Bank and Gaza,2006,6.01
+1906,West Bank and Gaza,2008,5.83
+1907,West Bank and Gaza,2010,5.44
+1908,West Bank and Gaza,2011,4.97
+1909,West Bank and Gaza,2012,4.8
+1910,West Bank and Gaza,2013,4.8
+1911,West Bank and Gaza,2014,4.72
+1912,West Bank and Gaza,2015,4.57
+1913,West Bank and Gaza,2016,4.49
+1914,West Bank and Gaza,2017,4.46
+1915,West Bank and Gaza,2018,4.39
+1916,West Bank and Gaza,2019,3.89
+1917,West Bank and Gaza,2020,3.83
+1918,West Bank and Gaza,2021,3.94
+1919,West Bank and Gaza,2022,3.86
+1920,Qatar,2006,2.78
+1921,Qatar,2008,2.92
+1922,Qatar,2010,3.09
+1923,Qatar,2011,3.18
+1924,Qatar,2012,3.18
+1925,Qatar,2013,3.18
+1926,Qatar,2014,3.18
+1927,Qatar,2015,3.18
+1928,Qatar,2016,3.18
+1929,Qatar,2017,3.19
+1930,Qatar,2018,3.19
+1931,Qatar,2019,3.19
+1932,Qatar,2020,3.24
+1933,Qatar,2021,3.65
+1934,Qatar,2022,3.65
+1935,Romania,2006,7.06
+1936,Romania,2008,7.06
+1937,Romania,2010,6.6
+1938,Romania,2011,6.54
+1939,Romania,2012,6.54
+1940,Romania,2013,6.54
+1941,Romania,2014,6.68
+1942,Romania,2015,6.68
+1943,Romania,2016,6.62
+1944,Romania,2017,6.44
+1945,Romania,2018,6.38
+1946,Romania,2019,6.49
+1947,Romania,2020,6.4
+1948,Romania,2021,6.43
+1949,Romania,2022,6.45
+1950,Russian Federation,2006,5.02
+1951,Russian Federation,2008,4.48
+1952,Russian Federation,2010,4.26
+1953,Russian Federation,2011,3.92
+1954,Russian Federation,2012,3.74
+1955,Russian Federation,2013,3.59
+1956,Russian Federation,2014,3.39
+1957,Russian Federation,2015,3.31
+1958,Russian Federation,2016,3.24
+1959,Russian Federation,2017,3.17
+1960,Russian Federation,2018,2.94
+1961,Russian Federation,2019,3.11
+1962,Russian Federation,2020,3.31
+1963,Russian Federation,2021,3.24
+1964,Russian Federation,2022,2.28
+1965,Rwanda,2006,3.82
+1966,Rwanda,2008,3.71
+1967,Rwanda,2010,3.25
+1968,Rwanda,2011,3.25
+1969,Rwanda,2012,3.36
+1970,Rwanda,2013,3.38
+1971,Rwanda,2014,3.25
+1972,Rwanda,2015,3.07
+1973,Rwanda,2016,3.07
+1974,Rwanda,2017,3.19
+1975,Rwanda,2018,3.35
+1976,Rwanda,2019,3.16
+1977,Rwanda,2020,3.1
+1978,Rwanda,2021,3.1
+1979,Rwanda,2022,3.1
+1980,Saudi Arabia,2006,1.92
+1981,Saudi Arabia,2008,1.9
+1982,Saudi Arabia,2010,1.84
+1983,Saudi Arabia,2011,1.77
+1984,Saudi Arabia,2012,1.71
+1985,Saudi Arabia,2013,1.82
+1986,Saudi Arabia,2014,1.82
+1987,Saudi Arabia,2015,1.93
+1988,Saudi Arabia,2016,1.93
+1989,Saudi Arabia,2017,1.93
+1990,Saudi Arabia,2018,1.93
+1991,Saudi Arabia,2019,1.93
+1992,Saudi Arabia,2020,2.08
+1993,Saudi Arabia,2021,2.08
+1994,Saudi Arabia,2022,2.08
+1995,Sudan,2006,2.9
+1996,Sudan,2008,2.81
+1997,Sudan,2010,2.42
+1998,Sudan,2011,2.38
+1999,Sudan,2012,2.38
+2000,Sudan,2013,2.54
+2001,Sudan,2014,2.54
+2002,Sudan,2015,2.37
+2003,Sudan,2016,2.37
+2004,Sudan,2017,2.15
+2005,Sudan,2018,2.15
+2006,Sudan,2019,2.7
+2007,Sudan,2020,2.54
+2008,Sudan,2021,2.47
+2009,Sudan,2022,2.47
+2010,Senegal,2006,5.37
+2011,Senegal,2008,5.37
+2012,Senegal,2010,5.27
+2013,Senegal,2011,5.51
+2014,Senegal,2012,6.09
+2015,Senegal,2013,6.15
+2016,Senegal,2014,6.15
+2017,Senegal,2015,6.08
+2018,Senegal,2016,6.21
+2019,Senegal,2017,6.15
+2020,Senegal,2018,6.15
+2021,Senegal,2019,5.81
+2022,Senegal,2020,5.67
+2023,Senegal,2021,5.53
+2024,Senegal,2022,5.72
+2025,Singapore,2006,5.89
+2026,Singapore,2008,5.89
+2027,Singapore,2010,5.89
+2028,Singapore,2011,5.89
+2029,Singapore,2012,5.88
+2030,Singapore,2013,5.92
+2031,Singapore,2014,6.03
+2032,Singapore,2015,6.14
+2033,Singapore,2016,6.38
+2034,Singapore,2017,6.32
+2035,Singapore,2018,6.38
+2036,Singapore,2019,6.02
+2037,Singapore,2020,6.03
+2038,Singapore,2021,6.23
+2039,Singapore,2022,6.22
+2040,Sierra Leone,2006,3.57
+2041,Sierra Leone,2008,4.11
+2042,Sierra Leone,2010,4.51
+2043,Sierra Leone,2011,4.51
+2044,Sierra Leone,2012,4.71
+2045,Sierra Leone,2013,4.64
+2046,Sierra Leone,2014,4.56
+2047,Sierra Leone,2015,4.55
+2048,Sierra Leone,2016,4.55
+2049,Sierra Leone,2017,4.66
+2050,Sierra Leone,2018,4.66
+2051,Sierra Leone,2019,4.86
+2052,Sierra Leone,2020,4.86
+2053,Sierra Leone,2021,4.97
+2054,Sierra Leone,2022,5.03
+2055,El Salvador,2006,6.22
+2056,El Salvador,2008,6.4
+2057,El Salvador,2010,6.47
+2058,El Salvador,2011,6.47
+2059,El Salvador,2012,6.47
+2060,El Salvador,2013,6.53
+2061,El Salvador,2014,6.53
+2062,El Salvador,2015,6.64
+2063,El Salvador,2016,6.64
+2064,El Salvador,2017,6.43
+2065,El Salvador,2018,5.96
+2066,El Salvador,2019,6.15
+2067,El Salvador,2020,5.9
+2068,El Salvador,2021,5.72
+2069,El Salvador,2022,5.06
+2070,Serbia,2006,6.62
+2071,Serbia,2008,6.49
+2072,Serbia,2010,6.33
+2073,Serbia,2011,6.33
+2074,Serbia,2012,6.33
+2075,Serbia,2013,6.67
+2076,Serbia,2014,6.71
+2077,Serbia,2015,6.71
+2078,Serbia,2016,6.57
+2079,Serbia,2017,6.41
+2080,Serbia,2018,6.41
+2081,Serbia,2019,6.41
+2082,Serbia,2020,6.22
+2083,Serbia,2021,6.36
+2084,Serbia,2022,6.33
+2085,Suriname,2006,6.52
+2086,Suriname,2008,6.58
+2087,Suriname,2010,6.65
+2088,Suriname,2011,6.65
+2089,Suriname,2012,6.65
+2090,Suriname,2013,6.77
+2091,Suriname,2014,6.77
+2092,Suriname,2015,6.77
+2093,Suriname,2016,6.77
+2094,Suriname,2017,6.76
+2095,Suriname,2018,6.98
+2096,Suriname,2019,6.98
+2097,Suriname,2020,6.82
+2098,Suriname,2021,6.82
+2099,Suriname,2022,6.95
+2100,Slovak Republic,2006,7.4
+2101,Slovak Republic,2008,7.33
+2102,Slovak Republic,2010,7.35
+2103,Slovak Republic,2011,7.35
+2104,Slovak Republic,2012,7.35
+2105,Slovak Republic,2013,7.35
+2106,Slovak Republic,2014,7.35
+2107,Slovak Republic,2015,7.29
+2108,Slovak Republic,2016,7.29
+2109,Slovak Republic,2017,7.16
+2110,Slovak Republic,2018,7.1
+2111,Slovak Republic,2019,7.17
+2112,Slovak Republic,2020,6.97
+2113,Slovak Republic,2021,7.03
+2114,Slovak Republic,2022,7.07
+2115,Slovenia,2006,7.96
+2116,Slovenia,2008,7.96
+2117,Slovenia,2010,7.69
+2118,Slovenia,2011,7.76
+2119,Slovenia,2012,7.88
+2120,Slovenia,2013,7.88
+2121,Slovenia,2014,7.57
+2122,Slovenia,2015,7.57
+2123,Slovenia,2016,7.51
+2124,Slovenia,2017,7.5
+2125,Slovenia,2018,7.5
+2126,Slovenia,2019,7.5
+2127,Slovenia,2020,7.54
+2128,Slovenia,2021,7.54
+2129,Slovenia,2022,7.75
+2130,Sweden,2006,9.88
+2131,Sweden,2008,9.88
+2132,Sweden,2010,9.5
+2133,Sweden,2011,9.5
+2134,Sweden,2012,9.73
+2135,Sweden,2013,9.73
+2136,Sweden,2014,9.73
+2137,Sweden,2015,9.45
+2138,Sweden,2016,9.39
+2139,Sweden,2017,9.39
+2140,Sweden,2018,9.39
+2141,Sweden,2019,9.39
+2142,Sweden,2020,9.26
+2143,Sweden,2021,9.26
+2144,Sweden,2022,9.39
+2145,Eswatini,2006,2.93
+2146,Eswatini,2008,3.04
+2147,Eswatini,2010,2.9
+2148,Eswatini,2011,3.26
+2149,Eswatini,2012,3.2
+2150,Eswatini,2013,3.2
+2151,Eswatini,2014,3.09
+2152,Eswatini,2015,3.09
+2153,Eswatini,2016,3.03
+2154,Eswatini,2017,3.03
+2155,Eswatini,2018,3.03
+2156,Eswatini,2019,3.14
+2157,Eswatini,2020,3.08
+2158,Eswatini,2021,3.08
+2159,Eswatini,2022,3.01
+2160,Syrian Arab Republic,2006,2.36
+2161,Syrian Arab Republic,2008,2.18
+2162,Syrian Arab Republic,2010,2.31
+2163,Syrian Arab Republic,2011,1.99
+2164,Syrian Arab Republic,2012,1.63
+2165,Syrian Arab Republic,2013,1.86
+2166,Syrian Arab Republic,2014,1.74
+2167,Syrian Arab Republic,2015,1.43
+2168,Syrian Arab Republic,2016,1.43
+2169,Syrian Arab Republic,2017,1.43
+2170,Syrian Arab Republic,2018,1.43
+2171,Syrian Arab Republic,2019,1.43
+2172,Syrian Arab Republic,2020,1.43
+2173,Syrian Arab Republic,2021,1.43
+2174,Syrian Arab Republic,2022,1.43
+2175,Chad,2006,1.65
+2176,Chad,2008,1.52
+2177,Chad,2010,1.52
+2178,Chad,2011,1.62
+2179,Chad,2012,1.62
+2180,Chad,2013,1.5
+2181,Chad,2014,1.5
+2182,Chad,2015,1.5
+2183,Chad,2016,1.5
+2184,Chad,2017,1.5
+2185,Chad,2018,1.61
+2186,Chad,2019,1.61
+2187,Chad,2020,1.55
+2188,Chad,2021,1.67
+2189,Chad,2022,1.67
+2190,Togo,2006,1.75
+2191,Togo,2008,2.43
+2192,Togo,2010,3.45
+2193,Togo,2011,3.45
+2194,Togo,2012,3.45
+2195,Togo,2013,3.45
+2196,Togo,2014,3.45
+2197,Togo,2015,3.41
+2198,Togo,2016,3.32
+2199,Togo,2017,3.05
+2200,Togo,2018,3.1
+2201,Togo,2019,3.3
+2202,Togo,2020,2.8
+2203,Togo,2021,2.8
+2204,Togo,2022,2.99
+2205,Thailand,2006,5.67
+2206,Thailand,2008,6.81
+2207,Thailand,2010,6.55
+2208,Thailand,2011,6.55
+2209,Thailand,2012,6.55
+2210,Thailand,2013,6.25
+2211,Thailand,2014,5.39
+2212,Thailand,2015,5.09
+2213,Thailand,2016,4.92
+2214,Thailand,2017,4.63
+2215,Thailand,2018,4.63
+2216,Thailand,2019,6.32
+2217,Thailand,2020,6.04
+2218,Thailand,2021,6.04
+2219,Thailand,2022,6.67
+2220,Tajikistan,2006,2.45
+2221,Tajikistan,2008,2.45
+2222,Tajikistan,2010,2.51
+2223,Tajikistan,2011,2.51
+2224,Tajikistan,2012,2.51
+2225,Tajikistan,2013,2.51
+2226,Tajikistan,2014,2.37
+2227,Tajikistan,2015,1.95
+2228,Tajikistan,2016,1.89
+2229,Tajikistan,2017,1.93
+2230,Tajikistan,2018,1.93
+2231,Tajikistan,2019,1.93
+2232,Tajikistan,2020,1.94
+2233,Tajikistan,2021,1.94
+2234,Tajikistan,2022,1.94
+2235,Turkmenistan,2006,1.83
+2236,Turkmenistan,2008,1.72
+2237,Turkmenistan,2010,1.72
+2238,Turkmenistan,2011,1.72
+2239,Turkmenistan,2012,1.72
+2240,Turkmenistan,2013,1.72
+2241,Turkmenistan,2014,1.83
+2242,Turkmenistan,2015,1.83
+2243,Turkmenistan,2016,1.83
+2244,Turkmenistan,2017,1.72
+2245,Turkmenistan,2018,1.72
+2246,Turkmenistan,2019,1.72
+2247,Turkmenistan,2020,1.72
+2248,Turkmenistan,2021,1.66
+2249,Turkmenistan,2022,1.66
+2250,Timor-Leste,2006,6.41
+2251,Timor-Leste,2008,7.22
+2252,Timor-Leste,2010,7.22
+2253,Timor-Leste,2011,7.22
+2254,Timor-Leste,2012,7.16
+2255,Timor-Leste,2013,7.24
+2256,Timor-Leste,2014,7.24
+2257,Timor-Leste,2015,7.24
+2258,Timor-Leste,2016,7.24
+2259,Timor-Leste,2017,7.19
+2260,Timor-Leste,2018,7.19
+2261,Timor-Leste,2019,7.19
+2262,Timor-Leste,2020,7.06
+2263,Timor-Leste,2021,7.06
+2264,Timor-Leste,2022,7.06
+2265,Trinidad and Tobago,2006,7.18
+2266,Trinidad and Tobago,2008,7.21
+2267,Trinidad and Tobago,2010,7.16
+2268,Trinidad and Tobago,2011,7.16
+2269,Trinidad and Tobago,2012,6.99
+2270,Trinidad and Tobago,2013,6.99
+2271,Trinidad and Tobago,2014,6.99
+2272,Trinidad and Tobago,2015,7.1
+2273,Trinidad and Tobago,2016,7.1
+2274,Trinidad and Tobago,2017,7.04
+2275,Trinidad and Tobago,2018,7.16
+2276,Trinidad and Tobago,2019,7.16
+2277,Trinidad and Tobago,2020,7.16
+2278,Trinidad and Tobago,2021,7.16
+2279,Trinidad and Tobago,2022,7.16
+2280,Tunisia,2006,3.06
+2281,Tunisia,2008,2.96
+2282,Tunisia,2010,2.79
+2283,Tunisia,2011,5.53
+2284,Tunisia,2012,5.67
+2285,Tunisia,2013,5.76
+2286,Tunisia,2014,6.31
+2287,Tunisia,2015,6.72
+2288,Tunisia,2016,6.4
+2289,Tunisia,2017,6.32
+2290,Tunisia,2018,6.41
+2291,Tunisia,2019,6.72
+2292,Tunisia,2020,6.59
+2293,Tunisia,2021,5.99
+2294,Tunisia,2022,5.51
+2295,Turkiye,2006,5.7
+2296,Turkiye,2008,5.69
+2297,Turkiye,2010,5.73
+2298,Turkiye,2011,5.73
+2299,Turkiye,2012,5.76
+2300,Turkiye,2013,5.63
+2301,Turkiye,2014,5.12
+2302,Turkiye,2015,5.12
+2303,Turkiye,2016,5.04
+2304,Turkiye,2017,4.88
+2305,Turkiye,2018,4.37
+2306,Turkiye,2019,4.09
+2307,Turkiye,2020,4.48
+2308,Turkiye,2021,4.35
+2309,Turkiye,2022,4.35
+2310,"Taiwan, China",2006,7.82
+2311,"Taiwan, China",2008,7.82
+2312,"Taiwan, China",2010,7.52
+2313,"Taiwan, China",2011,7.46
+2314,"Taiwan, China",2012,7.57
+2315,"Taiwan, China",2013,7.57
+2316,"Taiwan, China",2014,7.65
+2317,"Taiwan, China",2015,7.83
+2318,"Taiwan, China",2016,7.79
+2319,"Taiwan, China",2017,7.73
+2320,"Taiwan, China",2018,7.73
+2321,"Taiwan, China",2019,7.73
+2322,"Taiwan, China",2020,8.94
+2323,"Taiwan, China",2021,8.99
+2324,"Taiwan, China",2022,8.99
+2325,Tanzania,2006,5.18
+2326,Tanzania,2008,5.28
+2327,Tanzania,2010,5.64
+2328,Tanzania,2011,5.64
+2329,Tanzania,2012,5.88
+2330,Tanzania,2013,5.77
+2331,Tanzania,2014,5.77
+2332,Tanzania,2015,5.58
+2333,Tanzania,2016,5.76
+2334,Tanzania,2017,5.47
+2335,Tanzania,2018,5.41
+2336,Tanzania,2019,5.16
+2337,Tanzania,2020,5.1
+2338,Tanzania,2021,5.1
+2339,Tanzania,2022,5.1
+2340,Uganda,2006,5.14
+2341,Uganda,2008,5.03
+2342,Uganda,2010,5.05
+2343,Uganda,2011,5.13
+2344,Uganda,2012,5.16
+2345,Uganda,2013,5.22
+2346,Uganda,2014,5.22
+2347,Uganda,2015,5.22
+2348,Uganda,2016,5.26
+2349,Uganda,2017,5.09
+2350,Uganda,2018,5.2
+2351,Uganda,2019,5.02
+2352,Uganda,2020,4.94
+2353,Uganda,2021,4.48
+2354,Uganda,2022,4.55
+2355,Ukraine,2006,6.94
+2356,Ukraine,2008,6.94
+2357,Ukraine,2010,6.3
+2358,Ukraine,2011,5.94
+2359,Ukraine,2012,5.91
+2360,Ukraine,2013,5.84
+2361,Ukraine,2014,5.42
+2362,Ukraine,2015,5.7
+2363,Ukraine,2016,5.7
+2364,Ukraine,2017,5.69
+2365,Ukraine,2018,5.69
+2366,Ukraine,2019,5.9
+2367,Ukraine,2020,5.81
+2368,Ukraine,2021,5.57
+2369,Ukraine,2022,5.42
+2370,Uruguay,2006,7.96
+2371,Uruguay,2008,8.08
+2372,Uruguay,2010,8.1
+2373,Uruguay,2011,8.17
+2374,Uruguay,2012,8.17
+2375,Uruguay,2013,8.17
+2376,Uruguay,2014,8.17
+2377,Uruguay,2015,8.17
+2378,Uruguay,2016,8.17
+2379,Uruguay,2017,8.12
+2380,Uruguay,2018,8.38
+2381,Uruguay,2019,8.38
+2382,Uruguay,2020,8.61
+2383,Uruguay,2021,8.85
+2384,Uruguay,2022,8.91
+2385,United States,2006,8.22
+2386,United States,2008,8.22
+2387,United States,2010,8.18
+2388,United States,2011,8.11
+2389,United States,2012,8.11
+2390,United States,2013,8.11
+2391,United States,2014,8.11
+2392,United States,2015,8.05
+2393,United States,2016,7.98
+2394,United States,2017,7.98
+2395,United States,2018,7.96
+2396,United States,2019,7.96
+2397,United States,2020,7.92
+2398,United States,2021,7.85
+2399,United States,2022,7.85
+2400,Uzbekistan,2006,1.85
+2401,Uzbekistan,2008,1.74
+2402,Uzbekistan,2010,1.74
+2403,Uzbekistan,2011,1.74
+2404,Uzbekistan,2012,1.72
+2405,Uzbekistan,2013,1.72
+2406,Uzbekistan,2014,2.45
+2407,Uzbekistan,2015,1.95
+2408,Uzbekistan,2016,1.95
+2409,Uzbekistan,2017,1.95
+2410,Uzbekistan,2018,2.01
+2411,Uzbekistan,2019,2.01
+2412,Uzbekistan,2020,2.12
+2413,Uzbekistan,2021,2.12
+2414,Uzbekistan,2022,2.12
+2415,"Venezuela, RB",2006,5.42
+2416,"Venezuela, RB",2008,5.34
+2417,"Venezuela, RB",2010,5.18
+2418,"Venezuela, RB",2011,5.08
+2419,"Venezuela, RB",2012,5.15
+2420,"Venezuela, RB",2013,5.07
+2421,"Venezuela, RB",2014,5.07
+2422,"Venezuela, RB",2015,5.0
+2423,"Venezuela, RB",2016,4.68
+2424,"Venezuela, RB",2017,3.87
+2425,"Venezuela, RB",2018,3.16
+2426,"Venezuela, RB",2019,2.88
+2427,"Venezuela, RB",2020,2.76
+2428,"Venezuela, RB",2021,2.11
+2429,"Venezuela, RB",2022,2.23
+2430,Vietnam,2006,2.75
+2431,Vietnam,2008,2.53
+2432,Vietnam,2010,2.94
+2433,Vietnam,2011,2.96
+2434,Vietnam,2012,2.89
+2435,Vietnam,2013,3.29
+2436,Vietnam,2014,3.41
+2437,Vietnam,2015,3.53
+2438,Vietnam,2016,3.38
+2439,Vietnam,2017,3.08
+2440,Vietnam,2018,3.08
+2441,Vietnam,2019,3.08
+2442,Vietnam,2020,2.94
+2443,Vietnam,2021,2.94
+2444,Vietnam,2022,2.73
+2445,"Yemen, Rep.",2006,2.98
+2446,"Yemen, Rep.",2008,2.95
+2447,"Yemen, Rep.",2010,2.64
+2448,"Yemen, Rep.",2011,2.57
+2449,"Yemen, Rep.",2012,3.12
+2450,"Yemen, Rep.",2013,2.79
+2451,"Yemen, Rep.",2014,2.79
+2452,"Yemen, Rep.",2015,2.24
+2453,"Yemen, Rep.",2016,2.07
+2454,"Yemen, Rep.",2017,2.07
+2455,"Yemen, Rep.",2018,1.95
+2456,"Yemen, Rep.",2019,1.95
+2457,"Yemen, Rep.",2020,1.95
+2458,"Yemen, Rep.",2021,1.95
+2459,"Yemen, Rep.",2022,1.95
+2460,South Africa,2006,7.91
+2461,South Africa,2008,7.91
+2462,South Africa,2010,7.79
+2463,South Africa,2011,7.79
+2464,South Africa,2012,7.79
+2465,South Africa,2013,7.9
+2466,South Africa,2014,7.82
+2467,South Africa,2015,7.56
+2468,South Africa,2016,7.41
+2469,South Africa,2017,7.24
+2470,South Africa,2018,7.24
+2471,South Africa,2019,7.24
+2472,South Africa,2020,7.05
+2473,South Africa,2021,7.05
+2474,South Africa,2022,7.05
+2475,Zambia,2006,5.25
+2476,Zambia,2008,5.25
+2477,Zambia,2010,5.68
+2478,Zambia,2011,6.19
+2479,Zambia,2012,6.26
+2480,Zambia,2013,6.26
+2481,Zambia,2014,6.39
+2482,Zambia,2015,6.28
+2483,Zambia,2016,5.99
+2484,Zambia,2017,5.68
+2485,Zambia,2018,5.61
+2486,Zambia,2019,5.09
+2487,Zambia,2020,4.86
+2488,Zambia,2021,5.72
+2489,Zambia,2022,5.8
+2490,Zimbabwe,2006,2.62
+2491,Zimbabwe,2008,2.53
+2492,Zimbabwe,2010,2.64
+2493,Zimbabwe,2011,2.68
+2494,Zimbabwe,2012,2.67
+2495,Zimbabwe,2013,2.67
+2496,Zimbabwe,2014,2.78
+2497,Zimbabwe,2015,3.05
+2498,Zimbabwe,2016,3.05
+2499,Zimbabwe,2017,3.16
+2500,Zimbabwe,2018,3.16
+2501,Zimbabwe,2019,3.16
+2502,Zimbabwe,2020,3.16
+2503,Zimbabwe,2021,2.92
+2504,Zimbabwe,2022,2.92
