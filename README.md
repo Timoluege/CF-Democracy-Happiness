@@ -17,15 +17,14 @@ While voters' decisions are influenced by many factors, this project looks speci
 
 The analysis is divided into nine Jupyter notebooks, each focusing on different aspects of the data:
 1. Descriptive Analysis and Data Exploration of World Happiness, Inflation and Democracy-Data
-
-1.1. Data Merging
-2. Exploring Relationships
-3. Geographical Analysis
-4. Machine Learning: Regression
-5. Machine Learning: Clustering
-6. Time Series Analysis
-7. Data Preparation and Merge of Covid-Stringency-Data
-8. Machine Learning: Regression of Covid-Stringency Data
+2. Data Merging of Main Datasets
+3. Exploring Relationships
+4. Geographical Analysis
+5. Machine Learning: Regression
+6. Machine Learning: Clustering
+7. Time Series Analysis
+8. Data Preparation and Merge of Covid-Stringency Data
+9. Machine Learning: Regression of Covid-Stringency Data
 
 ## Data Sources
 **World Happiness Report 2024**: Yearly report that calculates happiness per country in up to 137 countries based on six key variables. Higher happiness-scores (range: 1-10) are better. The report was first released in 2005 with data from only 25 countries. This analysis used data as of 2008 when 110 countries were captured by the report. [Source](https://worldhappiness.report/data/) 
