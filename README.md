@@ -26,7 +26,7 @@ The analysis is divided into nine Jupyter notebooks, each focusing on different 
 9. Machine Learning: Regression of Covid-Stringency Data
 
 ## Data Sources
-**World Happiness Report 2024**: Yearly report that calculates happiness per country in up to 137 countries based on six key variables. Higher happiness-scores (range: 1-10) are better. The report was first released in 2005 with data from only 25 countries. This analysis used data as of 2008 when 110 countries were captured by the report. [Source](https://worldhappiness.report/data/) 
+**World Happiness Report 2024**: Yearly report that calculates happiness per country in up to 137 countries based on six key variables. Higher happiness-scores (range: 1-10) are better. The report was first released in 2005 with data from only 25 countries. This analysis used data as of 2008 when 110 countries were captured by the report. ([Source])(https://worldhappiness.report/data/) 
 
 **Global Inflation Data**: World Bank data on inflation in 267 countries [Source](https://databank.worldbank.org/source/world-development-indicators) 
 
