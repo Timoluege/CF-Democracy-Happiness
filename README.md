@@ -17,7 +17,7 @@ While voters' decisions are influenced by many factors, this project looks speci
 
 The analysis is divided into nine Jupyter notebooks, each focusing on different aspects of the data:
 1. Descriptive Analysis and Data Exploration of World Happinness, Inflation and Democracy-Data
-1a. Data Mergin
+1 a. Data Merging
 2. Exploring Relationships
 3. Geographical Analysis
 4. Machine Learning: Regression
@@ -36,10 +36,10 @@ The analysis is divided into nine Jupyter notebooks, each focusing on different 
 **Covid-19 Stringency Index**: Measurement of the stringency of COVID-19 measures, created by the Blavatnik School of Government at University of Oxford between 2020 and 2024. The index is based on factors such as travel bans, school closures, etc. [Source](https://ourworldindata.org/metrics-explained-covid19-stringency-index) 
   
 ## Limitations 
-· The number of countries covered by the datasets changes over time. 
-· Some datasets are lacking data for some countries and/or years. In the case of democracy values, the data was imputed from previous/following years. However missing inflation data was not imputed and remained missing. 
-· The Democracy Index and the World Happiness Report are based on surveys and might contain different forms of bias. However, given that both surveys are conducted by renowned expert organisations, this concern is minimal. 
-· Additional limitations and assumptions can be found in the respective codebooks and annexes. 
+* The number of countries covered by the datasets changes over time. 
+* Some datasets are lacking data for some countries and/or years. In the case of democracy values, the data was imputed from previous/following years. However missing inflation data was not imputed and remained missing. 
+* The Democracy Index and the World Happiness Report are based on surveys and might contain different forms of bias. However, given that both surveys are conducted by renowned expert organisations, this concern is minimal. 
+* Additional limitations and assumptions can be found in the respective codebooks and annexes. 
 
 ## Key Findings
 
