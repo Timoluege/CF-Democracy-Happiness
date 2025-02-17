@@ -26,11 +26,11 @@ The analysis is divided into nine Jupyter notebooks, each focusing on different 
 9. Machine Learning: Regression of Covid-Stringency Data
 
 ## Data Sources
-**World Happiness Report 2024**: Yearly report that calculates happiness per country in up to 137 countries based on six key variables. Higher happiness-scores (range: 1-10) are better. The report was first released in 2005 with data from only 25 countries. This analysis used data as of 2008 when 110 countries were captured by the report. ([Source])(https://worldhappiness.report/data/) 
+**World Happiness Report 2024**: Yearly report that calculates happiness per country in up to 137 countries based on six key variables. Higher happiness-scores (range: 1-10) are better. The report was first released in 2005 with data from only 25 countries. This analysis used data as of 2008 when 110 countries were captured by the report. [Source](https://worldhappiness.report/data/) 
 
-**Global Inflation Data**: World Bank data on inflation in 267 countries [Source](https://databank.worldbank.org/source/world-development-indicators) 
+**Global Inflation Data**: World Bank data on inflation in 267 countries. [Source](https://databank.worldbank.org/source/world-development-indicators) 
 
-**Democracy Index**: Measurement of the quality of democracies in 167 countries since 2006. Higher values (0-10) indicate more democratic regimes. The index is compiled by the Economist Intelligence Unit ([Source](https://ourworldindata.org/grapher/democracy-index-eiu) 
+**Democracy Index**: Measurement of the quality of democracies in 167 countries since 2006. Higher values (0-10) indicate more democratic regimes. The index is compiled by the Economist Intelligence Unit. [Source](https://ourworldindata.org/grapher/democracy-index-eiu) 
 
 **Covid-19 Stringency Index**: Measurement of the stringency of COVID-19 measures, created by the Blavatnik School of Government at University of Oxford between 2020 and 2024. The index is based on factors such as travel bans, school closures, etc. [Source](https://ourworldindata.org/metrics-explained-covid19-stringency-index) 
   
