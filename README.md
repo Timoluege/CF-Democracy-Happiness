@@ -1,5 +1,4 @@
-# CF-Democracy-Happiness
- Data Analysis: Does Democracy Make People Happy?
+#  Data Analysis: Does Democracy Make People Happy?
 
 * [**Link to Tableau-Storyboard**](https://public.tableau.com/views/DoesDemocracyMakePeopleHappy2025-02-17V01/DemocracyandHappiness?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
