@@ -1,6 +1,6 @@
 #  Data Analysis: Does Democracy Make People Happy?
 
-* [**See Tableau-Storyboard for visualization of Analysis**](https://public.tableau.com/views/DoesDemocracyMakePeopleHappy2025-02-17V01/DemocracyandHappiness?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [**See Tableau-Storyboard for visualization of analysis**](https://public.tableau.com/views/DoesDemocracyMakePeopleHappy2025-02-17V01/DemocracyandHappiness?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Overview
 
@@ -50,7 +50,7 @@ Similarly, there is **no indication that more intense Covid-19 restrictions led 
 
 Overall, this analysis has shown that **supporting authoritarian-leaning political actors is contrary to the interests of people who expect to live happier lives.** 
 
-* [**See Tableau-Storyboard for visualization of Analysis**](https://public.tableau.com/views/DoesDemocracyMakePeopleHappy2025-02-17V01/DemocracyandHappiness?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+* [**See Tableau-Storyboard for visualization of analysis**](https://public.tableau.com/views/DoesDemocracyMakePeopleHappy2025-02-17V01/DemocracyandHappiness?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Possible Next Steps
 Happiness depends on many factors, many of which are already taken into account in the World Happiness Report. Additional factors to look into could be:
